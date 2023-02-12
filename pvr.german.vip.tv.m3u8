@@ -1,573 +1,573 @@
-#EXTM3U
-#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",DAS ERSTE FHD
+#EXTM3U8
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",DAS ERSTE
 http://vipblue.live:8080/Markliez22/xx281122xx/1234
-#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",DAS ERSTE HD
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",DAS ERSTE
 http://vipblue.live:8080/Markliez22/xx281122xx/1235
-#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF FHD
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF
 http://vipblue.live:8080/Markliez22/xx281122xx/1236
-#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF HD
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF
 http://vipblue.live:8080/Markliez22/xx281122xx/1237
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL FHD
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL
 http://vipblue.live:8080/Markliez22/xx281122xx/1238
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL HD
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL
 http://vipblue.live:8080/Markliez22/xx281122xx/1239
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL ZWEI FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 2
 http://vipblue.live:8080/Markliez22/xx281122xx/1240
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL ZWEI HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 2
 http://vipblue.live:8080/Markliez22/xx281122xx/1241
-#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",SAT 1 FHD
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",SAT.1
 http://vipblue.live:8080/Markliez22/xx281122xx/1242
-#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",SAT 1 HD
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",SAT.1
 http://vipblue.live:8080/Markliez22/xx281122xx/1243
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",PROSIEBEN FHD
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",Pro Sieben
 http://vipblue.live:8080/Markliez22/xx281122xx/1244
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",PROSIEBEN HD
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",Pro Sieben
 http://vipblue.live:8080/Markliez22/xx281122xx/1245
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",PROSIEBEN MAXX FHD
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",Pro Sieben MAXX
 http://vipblue.live:8080/Markliez22/xx281122xx/1246
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",PROSIEBEN MAXX HD
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",Pro Sieben MAXX
 http://vipblue.live:8080/Markliez22/xx281122xx/1247
-#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",PROSIEBEN FUN FHD
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",Pro Sieben FUN
 http://vipblue.live:8080/Markliez22/xx281122xx/1248
-#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",PROSIEBEN FUN HD
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",Pro Sieben FUN
 http://vipblue.live:8080/Markliez22/xx281122xx/1249
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV NOW FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV NOW
 http://vipblue.live:8080/Markliez22/xx281122xx/127565
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV NOW HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV NOW
 http://vipblue.live:8080/Markliez22/xx281122xx/127564
-#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL CRIME FHD
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL Crime
 http://vipblue.live:8080/Markliez22/xx281122xx/1250
-#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL CRIME HD
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL Crime
 http://vipblue.live:8080/Markliez22/xx281122xx/1251
-#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",SAT 1 GOLD FHD
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",SAT.1 GOLD
 http://vipblue.live:8080/Markliez22/xx281122xx/1252
-#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",SAT 1 GOLD HD
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",SAT.1 GOLD
 http://vipblue.live:8080/Markliez22/xx281122xx/1253
-#EXTINF:0 tvg-id="Sat1Comedy.de" group-title="Channels",SAT 1 EMOTIONS FHD
+#EXTINF:0 tvg-id="Sat1Comedy.de" group-title="Channels",SAT.1 EMOTIONS
 http://vipblue.live:8080/Markliez22/xx281122xx/1254
-#EXTINF:0 tvg-id="Sat1Comedy.de" group-title="Channels",SAT 1 EMOTIONS HD
+#EXTINF:0 tvg-id="Sat1Comedy.de" group-title="Channels",SAT.1 EMOTIONS
 http://vipblue.live:8080/Markliez22/xx281122xx/147950
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX FHD
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX
 http://vipblue.live:8080/Markliez22/xx281122xx/1255
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX HD
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX
 http://vipblue.live:8080/Markliez22/xx281122xx/1256
-#EXTINF:0 tvg-id="ext" group-title="Channels",VOX UP FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOX UP
 http://vipblue.live:8080/Markliez22/xx281122xx/195206
-#EXTINF:0 tvg-id="ext" group-title="Channels",VOX UP HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOX UP
 http://vipblue.live:8080/Markliez22/xx281122xx/1257
-#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",KABEL EINS FHD
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",Kabel Eins
 http://vipblue.live:8080/Markliez22/xx281122xx/1258
-#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",KABEL EINS HD
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",Kabel Eins
 http://vipblue.live:8080/Markliez22/xx281122xx/1259
-#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Channels",KABEL EINS CLASSICS HD
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Channels",Kabel Eins CLASSICS
 http://vipblue.live:8080/Markliez22/xx281122xx/1260
-#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Channels",KABEL EINS CLASSICS FHD
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Channels",Kabel Eins CLASSICS
 http://vipblue.live:8080/Markliez22/xx281122xx/1261
-#EXTINF:0 tvg-id="ext" group-title="Channels",KABEL EINS DOKU FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins Doku
 http://vipblue.live:8080/Markliez22/xx281122xx/1262
-#EXTINF:0 tvg-id="ext" group-title="Channels",KABEL EINS DOKU HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins Doku
 http://vipblue.live:8080/Markliez22/xx281122xx/1263
-#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",ZDF NEO FHD
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",ZDF NEO
 http://vipblue.live:8080/Markliez22/xx281122xx/1264
-#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",ZDF NEO HD
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",ZDF NEO
 http://vipblue.live:8080/Markliez22/xx281122xx/1265
-#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",ZDF INFO FHD
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",ZDF INFO
 http://vipblue.live:8080/Markliez22/xx281122xx/160841
-#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",ZDF INFO HD
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",ZDF INFO
 http://vipblue.live:8080/Markliez22/xx281122xx/1266
-#EXTINF:0 tvg-id="SkyReplay.de" group-title="Channels",SKY REPLAY FHD
+#EXTINF:0 tvg-id="SkyReplay.de" group-title="Channels",SKY REPLAY
 http://vipblue.live:8080/Markliez22/xx281122xx/1267
-#EXTINF:0 tvg-id="SkyReplay.de" group-title="Channels",SKY REPLAY HD
+#EXTINF:0 tvg-id="SkyReplay.de" group-title="Channels",SKY REPLAY
 http://vipblue.live:8080/Markliez22/xx281122xx/1268
-#EXTINF:0 tvg-id="ext" group-title="Channels",NITRO FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NITRO
 http://vipblue.live:8080/Markliez22/xx281122xx/1269
-#EXTINF:0 tvg-id="ext" group-title="Channels",NITRO HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NITRO
 http://vipblue.live:8080/Markliez22/xx281122xx/1270
-#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL PASSION FHD
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL PASSION
 http://vipblue.live:8080/Markliez22/xx281122xx/1271
-#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL PASSION HD
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL PASSION
 http://vipblue.live:8080/Markliez22/xx281122xx/1272
-#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",RTL LIVING FHD
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",RTL LIVING
 http://vipblue.live:8080/Markliez22/xx281122xx/1273
-#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",RTL LIVING HD
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",RTL LIVING
 http://vipblue.live:8080/Markliez22/xx281122xx/1274
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL UP FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTLup
 http://vipblue.live:8080/Markliez22/xx281122xx/1275
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL UP HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTLup
 http://vipblue.live:8080/Markliez22/xx281122xx/1276
-#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",SIXX FHD
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",SIXX
 http://vipblue.live:8080/Markliez22/xx281122xx/1277
-#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",SIXX HD
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",SIXX
 http://vipblue.live:8080/Markliez22/xx281122xx/1278
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANIXE HD SERIE FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIXE HD SERIE
 http://vipblue.live:8080/Markliez22/xx281122xx/147951
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANIXE HD SERIE HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIXE HD SERIE
 http://vipblue.live:8080/Markliez22/xx281122xx/1279
-#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",ARTE FHD
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",ARTE
 http://vipblue.live:8080/Markliez22/xx281122xx/1280
-#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",ARTE HD
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",ARTE
 http://vipblue.live:8080/Markliez22/xx281122xx/1281
-#EXTINF:0 tvg-id="RomanceTV.pl" group-title="Channels",ROMANCE TV FHD
+#EXTINF:0 tvg-id="RomanceTV.pl" group-title="Channels",ROMANCE TV
 http://vipblue.live:8080/Markliez22/xx281122xx/2842
-#EXTINF:0 tvg-id="RomanceTV.pl" group-title="Channels",ROMANCE TV HD
+#EXTINF:0 tvg-id="RomanceTV.pl" group-title="Channels",ROMANCE TV
 http://vipblue.live:8080/Markliez22/xx281122xx/1283
-#EXTINF:0 tvg-id="ext" group-title="Channels",HEIMATKANAL HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",HEIMATKANAL
 http://vipblue.live:8080/Markliez22/xx281122xx/1282
 #EXTINF:0 tvg-id="Heimatkanal.de" group-title="Channels",HEIMATKANAL
 http://vipblue.live:8080/Markliez22/xx281122xx/2841
-#EXTINF:0 tvg-id="ext" group-title="Channels",PULS 24 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",PULS 24
 http://vipblue.live:8080/Markliez22/xx281122xx/1284
-#EXTINF:0 tvg-id="ext" group-title="Channels",PULS 24 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",PULS 24
 http://vipblue.live:8080/Markliez22/xx281122xx/195407
-#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",TELE 5 FHD
+#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",TELE 5
 http://vipblue.live:8080/Markliez22/xx281122xx/1286
-#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",TELE 5 HD
+#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",TELE 5
 http://vipblue.live:8080/Markliez22/xx281122xx/1285
-#EXTINF:0 tvg-id="3sat.de" group-title="Channels",3SAT FHD
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",3sat
 http://vipblue.live:8080/Markliez22/xx281122xx/1287
-#EXTINF:0 tvg-id="3sat.de" group-title="Channels",3SAT HD
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",3sat
 http://vipblue.live:8080/Markliez22/xx281122xx/1288
-#EXTINF:0 tvg-id="WDR.de" group-title="Channels",WDR HD
+#EXTINF:0 tvg-id="WDR.de" group-title="Channels",WDR
 http://vipblue.live:8080/Markliez22/xx281122xx/1290
 #EXTINF:0 tvg-id="WDR.de" group-title="Channels",WDR
 http://vipblue.live:8080/Markliez22/xx281122xx/1289
 #EXTINF:0 tvg-id="ext" group-title="Channels",??? REGIONAL ???
 http://vipblue.live:8080/Markliez22/xx281122xx/117661
-#EXTINF:0 tvg-id="WDR.de" group-title="Channels",WDR KOLN FHD
+#EXTINF:0 tvg-id="WDR.de" group-title="Channels",WDR KOLN
 http://vipblue.live:8080/Markliez22/xx281122xx/1291
-#EXTINF:0 tvg-id="WDR.de" group-title="Channels",WDR KOLN HD
+#EXTINF:0 tvg-id="WDR.de" group-title="Channels",WDR KOLN
 http://vipblue.live:8080/Markliez22/xx281122xx/195198
-#EXTINF:0 tvg-id="ext" group-title="Channels",MDR SACHSEN FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MDR SACHSEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1293
-#EXTINF:0 tvg-id="ext" group-title="Channels",MDR SACHSEN HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MDR SACHSEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1292
-#EXTINF:0 tvg-id="ext" group-title="Channels",MDR SACHSEN - ANHALT FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MDR SACHSEN - ANHALT
 http://vipblue.live:8080/Markliez22/xx281122xx/195203
-#EXTINF:0 tvg-id="SWR.de" group-title="Channels",SWR FHD
+#EXTINF:0 tvg-id="SWR.de" group-title="Channels",SWR
 http://vipblue.live:8080/Markliez22/xx281122xx/1294
-#EXTINF:0 tvg-id="SWR.de" group-title="Channels",SWR HD
+#EXTINF:0 tvg-id="SWR.de" group-title="Channels",SWR
 http://vipblue.live:8080/Markliez22/xx281122xx/195197
-#EXTINF:0 tvg-id="SWR.de" group-title="Channels",SWR BW HD
+#EXTINF:0 tvg-id="SWR.de" group-title="Channels",SWR BW
 http://vipblue.live:8080/Markliez22/xx281122xx/1295
-#EXTINF:0 tvg-id="ext" group-title="Channels",SWR RW HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SWR RW
 http://vipblue.live:8080/Markliez22/xx281122xx/1296
-#EXTINF:0 tvg-id="rbbBerlin.de" group-title="Channels",RBB BERLIN FHD
+#EXTINF:0 tvg-id="rbbBerlin.de" group-title="Channels",RBB BERLIN
 http://vipblue.live:8080/Markliez22/xx281122xx/1300
-#EXTINF:0 tvg-id="rbbBerlin.de" group-title="Channels",RBB BERLIN HD
+#EXTINF:0 tvg-id="rbbBerlin.de" group-title="Channels",RBB BERLIN
 http://vipblue.live:8080/Markliez22/xx281122xx/195199
-#EXTINF:0 tvg-id="ext" group-title="Channels",RBB FERNSEHEN HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RBB FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1299
 #EXTINF:0 tvg-id="ext" group-title="Channels",RBB FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/195204
-#EXTINF:0 tvg-id="ext" group-title="Channels",NDR FERNSEHEN FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NDR FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1297
-#EXTINF:0 tvg-id="ext" group-title="Channels",NDR FERNSEHEN HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NDR FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1298
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR FERNSEHEN FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1302
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR FERNSEHEN HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1301
-#EXTINF:0 tvg-id="HR.de" group-title="Channels",HR FERNSEHEN FHD
+#EXTINF:0 tvg-id="HR.de" group-title="Channels",HR FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1303
-#EXTINF:0 tvg-id="HR.de" group-title="Channels",HR FERNSEHEN HD
+#EXTINF:0 tvg-id="HR.de" group-title="Channels",HR FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1304
-#EXTINF:0 tvg-id="ext" group-title="Channels",SR FERNSEHEN FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SR FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/195196
-#EXTINF:0 tvg-id="ext" group-title="Channels",SR FERNSEHEN HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SR FERNSEHEN
 http://vipblue.live:8080/Markliez22/xx281122xx/1305
 #EXTINF:0 tvg-id="ext" group-title="Channels",SONNENKLAR TV
 http://vipblue.live:8080/Markliez22/xx281122xx/1306
-#EXTINF:0 tvg-id="ServusTV.at" group-title="Channels",SERVUS TV FHD
+#EXTINF:0 tvg-id="ServusTV.at" group-title="Channels",SERVUS TV
 http://vipblue.live:8080/Markliez22/xx281122xx/1307
-#EXTINF:0 tvg-id="ServusTV.at" group-title="Channels",SERVUS TV HD
+#EXTINF:0 tvg-id="ServusTV.at" group-title="Channels",SERVUS TV
 http://vipblue.live:8080/Markliez22/xx281122xx/195205
-#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV HD
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
 http://vipblue.live:8080/Markliez22/xx281122xx/1309
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUNCHEN TV FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUNCHEN TV
 http://vipblue.live:8080/Markliez22/xx281122xx/1310
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUNCHEN TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUNCHEN TV
 http://vipblue.live:8080/Markliez22/xx281122xx/147952
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARD ALPHA FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARD-Alpha
 http://vipblue.live:8080/Markliez22/xx281122xx/1312
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARD ALPHA HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARD-Alpha
 http://vipblue.live:8080/Markliez22/xx281122xx/195201
-#EXTINF:0 tvg-id="ort-hd" group-title="Channels",ONE FHD
+#EXTINF:0 tvg-id="ort-hd" group-title="Channels",ONE
 http://vipblue.live:8080/Markliez22/xx281122xx/195202
-#EXTINF:0 tvg-id="ort-hd" group-title="Channels",ONE HD
+#EXTINF:0 tvg-id="ort-hd" group-title="Channels",ONE
 http://vipblue.live:8080/Markliez22/xx281122xx/1313
-#EXTINF:0 tvg-id="BibelTV.de" group-title="Channels",BIBEL TV FHD
+#EXTINF:0 tvg-id="BibelTV.de" group-title="Channels",BIBEL TV
 http://vipblue.live:8080/Markliez22/xx281122xx/1314
-#EXTINF:0 tvg-id="BibelTV.de" group-title="Channels",BIBEL TV HD
+#EXTINF:0 tvg-id="BibelTV.de" group-title="Channels",BIBEL TV
 http://vipblue.live:8080/Markliez22/xx281122xx/1315
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIBEL TV IMPULS HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIBEL TV IMPULS
 http://vipblue.live:8080/Markliez22/xx281122xx/1316
 #EXTINF:0 tvg-id="ext" group-title="Channels",BIBEL TV MUSIK
 http://vipblue.live:8080/Markliez22/xx281122xx/1317
-#EXTINF:0 tvg-id="ext" group-title="Channels",123 TV FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",1-2-3.tv
 http://vipblue.live:8080/Markliez22/xx281122xx/195207
-#EXTINF:0 tvg-id="ext" group-title="Channels",123 TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",1-2-3.tv
 http://vipblue.live:8080/Markliez22/xx281122xx/148117
-#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO BREMEN HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO BREMEN
 http://vipblue.live:8080/Markliez22/xx281122xx/137940
-#EXTINF:0 tvg-id="ext" group-title="Channels",BADEN TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BADEN TV
 http://vipblue.live:8080/Markliez22/xx281122xx/147953
 #EXTINF:0 tvg-id="ext" group-title="Channels",NIEDERBAYERN TV LANDSHUT
 http://vipblue.live:8080/Markliez22/xx281122xx/148118
 #EXTINF:0 tvg-id="ext" group-title="Channels",NIEDERBAYERN TV PASSAU
 http://vipblue.live:8080/Markliez22/xx281122xx/148119
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOA 4 HAMBURG HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOA 4 HAMBURG
 http://vipblue.live:8080/Markliez22/xx281122xx/148120
-#EXTINF:0 tvg-id="QVC.it" group-title="Channels",QVC FHD
+#EXTINF:0 tvg-id="QVC.it" group-title="Channels",QVC
 http://vipblue.live:8080/Markliez22/xx281122xx/148121
-#EXTINF:0 tvg-id="ext" group-title="Channels",QVC STYLE HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",QVC STYLE
 http://vipblue.live:8080/Markliez22/xx281122xx/148122
-#EXTINF:0 tvg-id="ext" group-title="Channels",HSE FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",HSE
 http://vipblue.live:8080/Markliez22/xx281122xx/195358
-#EXTINF:0 tvg-id="ext" group-title="Channels",JUWELO FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",JUWELO
 http://vipblue.live:8080/Markliez22/xx281122xx/195359
-#EXTINF:0 tvg-id="ext" group-title="Channels",CHANNEL21 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHANNEL21
 http://vipblue.live:8080/Markliez22/xx281122xx/195360
 #EXTINF:0 tvg-id="ext" group-title="Channels",OK54 DIY CHANNEL
 http://vipblue.live:8080/Markliez22/xx281122xx/148125
-#EXTINF:0 tvg-id="ext" group-title="Channels",??? RAW / HEVC ???
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? / ???
 http://vipblue.live:8080/Markliez22/xx281122xx/1128
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAS ERSTE RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAS ERSTE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1129
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAS ERSTE HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAS ERSTE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1130
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF 
 http://vipblue.live:8080/Markliez22/xx281122xx/1131
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF 
 http://vipblue.live:8080/Markliez22/xx281122xx/1132
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF NEO RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF NEO 
 http://vipblue.live:8080/Markliez22/xx281122xx/1133
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF NEO HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF NEO 
 http://vipblue.live:8080/Markliez22/xx281122xx/137938
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL UHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL
 http://vipblue.live:8080/Markliez22/xx281122xx/1134
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 
 http://vipblue.live:8080/Markliez22/xx281122xx/1135
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 
 http://vipblue.live:8080/Markliez22/xx281122xx/1136
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL ZWEI RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/1137
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTL ZWEI HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/1138
-#EXTINF:0 tvg-id="ext" group-title="Channels",SAT 1 RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT.1 
 http://vipblue.live:8080/Markliez22/xx281122xx/1139
-#EXTINF:0 tvg-id="ext" group-title="Channels",SAT 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT.1 
 http://vipblue.live:8080/Markliez22/xx281122xx/1140
-#EXTINF:0 tvg-id="ext" group-title="Channels",SAT 1 GOLD RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT.1 GOLD 
 http://vipblue.live:8080/Markliez22/xx281122xx/1141
-#EXTINF:0 tvg-id="ext" group-title="Channels",SAT 1 GOLD HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT.1 GOLD 
 http://vipblue.live:8080/Markliez22/xx281122xx/1142
-#EXTINF:0 tvg-id="ext" group-title="Channels",PROSIEBEN SAT 1 UHD RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro Sieben SAT.1 
 http://vipblue.live:8080/Markliez22/xx281122xx/1143
-#EXTINF:0 tvg-id="ext" group-title="Channels",PROSIEBEN RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro Sieben 
 http://vipblue.live:8080/Markliez22/xx281122xx/1144
-#EXTINF:0 tvg-id="ext" group-title="Channels",PROSIEBEN HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro Sieben 
 http://vipblue.live:8080/Markliez22/xx281122xx/1145
-#EXTINF:0 tvg-id="ext" group-title="Channels",PROSIEBEN MAXX RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro Sieben MAXX 
 http://vipblue.live:8080/Markliez22/xx281122xx/1146
-#EXTINF:0 tvg-id="ext" group-title="Channels",PROSIEBEN MAXX HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro Sieben MAXX 
 http://vipblue.live:8080/Markliez22/xx281122xx/1147
-#EXTINF:0 tvg-id="ext" group-title="Channels",PROSIEBEN FUN RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro Sieben FUN 
 http://vipblue.live:8080/Markliez22/xx281122xx/1148
-#EXTINF:0 tvg-id="ext" group-title="Channels",PROSIEBEN FUN HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pro Sieben FUN 
 http://vipblue.live:8080/Markliez22/xx281122xx/118735
-#EXTINF:0 tvg-id="ext" group-title="Channels",VOX RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOX 
 http://vipblue.live:8080/Markliez22/xx281122xx/1149
-#EXTINF:0 tvg-id="ext" group-title="Channels",VOX HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOX 
 http://vipblue.live:8080/Markliez22/xx281122xx/1150
-#EXTINF:0 tvg-id="ext" group-title="Channels",VOX UP RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOX UP 
 http://vipblue.live:8080/Markliez22/xx281122xx/1151
-#EXTINF:0 tvg-id="ext" group-title="Channels",VOX UP HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOX UP 
 http://vipblue.live:8080/Markliez22/xx281122xx/160840
-#EXTINF:0 tvg-id="ext" group-title="Channels",KABEL EINS RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins 
 http://vipblue.live:8080/Markliez22/xx281122xx/1152
-#EXTINF:0 tvg-id="ext" group-title="Channels",KABEL EINS HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins 
 http://vipblue.live:8080/Markliez22/xx281122xx/1153
-#EXTINF:0 tvg-id="ext" group-title="Channels",KABEL EINS DOKU RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins Doku 
 http://vipblue.live:8080/Markliez22/xx281122xx/1154
-#EXTINF:0 tvg-id="ext" group-title="Channels",KABEL EINS DOKU HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins Doku 
 http://vipblue.live:8080/Markliez22/xx281122xx/1155
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY REPLAY RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY REPLAY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1156
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY REPLAY HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY REPLAY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1157
-#EXTINF:0 tvg-id="ext" group-title="Channels",NITRO RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",NITRO 
 http://vipblue.live:8080/Markliez22/xx281122xx/1158
-#EXTINF:0 tvg-id="ext" group-title="Channels",NITRO HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",NITRO 
 http://vipblue.live:8080/Markliez22/xx281122xx/1159
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIXX RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIXX 
 http://vipblue.live:8080/Markliez22/xx281122xx/1160
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIXX HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIXX 
 http://vipblue.live:8080/Markliez22/xx281122xx/1161
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER RTL RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER RTL 
 http://vipblue.live:8080/Markliez22/xx281122xx/1162
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER RTL HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER RTL 
 http://vipblue.live:8080/Markliez22/xx281122xx/1163
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 1 RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/1164
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/1165
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 2 RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/1166
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 2 HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/1167
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 3 HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",ORF 3 
 http://vipblue.live:8080/Markliez22/xx281122xx/1168
-#EXTINF:0 tvg-id="ext" group-title="Channels",N-TV RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",N-TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/1169
-#EXTINF:0 tvg-id="ext" group-title="Channels",N-TV HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",N-TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/1170
-#EXTINF:0 tvg-id="ext" group-title="Channels",WELT RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",WELT 
 http://vipblue.live:8080/Markliez22/xx281122xx/1171
-#EXTINF:0 tvg-id="ext" group-title="Channels",WELT HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",WELT 
 http://vipblue.live:8080/Markliez22/xx281122xx/1172
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY NATURE RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY NATURE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1173
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY DOCUMENTARIES RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY DOCUMENTARIES 
 http://vipblue.live:8080/Markliez22/xx281122xx/1174
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLC RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC 
 http://vipblue.live:8080/Markliez22/xx281122xx/1175
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLC HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC 
 http://vipblue.live:8080/Markliez22/xx281122xx/1176
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELE 5 RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELE 5 
 http://vipblue.live:8080/Markliez22/xx281122xx/118734
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELE 5 HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELE 5 
 http://vipblue.live:8080/Markliez22/xx281122xx/1178
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL GEOGRAPHIC RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL GEOGRAPHIC 
 http://vipblue.live:8080/Markliez22/xx281122xx/1179
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL GEOGRAPHIC HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL GEOGRAPHIC 
 http://vipblue.live:8080/Markliez22/xx281122xx/1180
-#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO WILD RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO WILD 
 http://vipblue.live:8080/Markliez22/xx281122xx/1181
-#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO WILD HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO WILD 
 http://vipblue.live:8080/Markliez22/xx281122xx/1182
-#EXTINF:0 tvg-id="ext" group-title="Channels",DMAX RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",DMAX 
 http://vipblue.live:8080/Markliez22/xx281122xx/1183
-#EXTINF:0 tvg-id="ext" group-title="Channels",DMAX HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",DMAX 
 http://vipblue.live:8080/Markliez22/xx281122xx/1184
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1185
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1186
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1187
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1188
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRIME+ INVESTIGATION RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime+Investigation 
 http://vipblue.live:8080/Markliez22/xx281122xx/170141
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRIME+ INVESTIGATION HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime+Investigation 
 http://vipblue.live:8080/Markliez22/xx281122xx/135789
-#EXTINF:0 tvg-id="ext" group-title="Channels",E! ENTERTAINMENT RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! ENTERTAINMENT 
 http://vipblue.live:8080/Markliez22/xx281122xx/1189
-#EXTINF:0 tvg-id="ext" group-title="Channels",E! ENTERTAINMENT HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! ENTERTAINMENT 
 http://vipblue.live:8080/Markliez22/xx281122xx/1190
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPIEGEL GESCHICHTE RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPIEGEL GESCHICHTE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1191
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPIEGEL GESCHICHTE HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPIEGEL GESCHICHTE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1192
-#EXTINF:0 tvg-id="ext" group-title="Channels",GEO TV HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",GEO TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/135784
-#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV 
 http://vipblue.live:8080/Markliez22/xx281122xx/135783
-#EXTINF:0 tvg-id="ext" group-title="Channels",13TH STREET RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",13th Street Universal 
 http://vipblue.live:8080/Markliez22/xx281122xx/1193
-#EXTINF:0 tvg-id="ext" group-title="Channels",13TH STREET HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",13th Street Universal 
 http://vipblue.live:8080/Markliez22/xx281122xx/1194
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL 
 http://vipblue.live:8080/Markliez22/xx281122xx/1195
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL 
 http://vipblue.live:8080/Markliez22/xx281122xx/1196
-#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1197
-#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1198
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV COMEDY RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV COMEDY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1199
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV COMEDY HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV COMEDY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1200
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV FILM RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV FILM 
 http://vipblue.live:8080/Markliez22/xx281122xx/1201
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV FILM HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV FILM 
 http://vipblue.live:8080/Markliez22/xx281122xx/1202
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV SERIE RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV SERIE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1203
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV SERIE HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER TV SERIE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1204
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ONE RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ONE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1205
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ONE HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ONE 
 http://vipblue.live:8080/Markliez22/xx281122xx/1206
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY COMEDY RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY COMEDY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1207
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY COMEDY HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY COMEDY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1208
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY KRIMI RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY KRIMI 
 http://vipblue.live:8080/Markliez22/xx281122xx/1209
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY KRIMI HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY KRIMI 
 http://vipblue.live:8080/Markliez22/xx281122xx/1210
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CRIME RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CRIME 
 http://vipblue.live:8080/Markliez22/xx281122xx/1211
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CRIME HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CRIME 
 http://vipblue.live:8080/Markliez22/xx281122xx/1212
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ATLANTIC RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ATLANTIC 
 http://vipblue.live:8080/Markliez22/xx281122xx/1213
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ATLANTIC HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ATLANTIC 
 http://vipblue.live:8080/Markliez22/xx281122xx/1214
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA ACTION RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA ACTION 
 http://vipblue.live:8080/Markliez22/xx281122xx/1215
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA ACTION HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA ACTION 
 http://vipblue.live:8080/Markliez22/xx281122xx/1216
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA BEST OF RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA BEST OF 
 http://vipblue.live:8080/Markliez22/xx281122xx/1217
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA BEST OF HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA BEST OF 
 http://vipblue.live:8080/Markliez22/xx281122xx/1218
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA FAMILY RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA FAMILY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1219
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA FAMILY HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA FAMILY 
 http://vipblue.live:8080/Markliez22/xx281122xx/1220
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIEREN RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIEREN 
 http://vipblue.live:8080/Markliez22/xx281122xx/1221
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIEREN HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIEREN 
 http://vipblue.live:8080/Markliez22/xx281122xx/1222
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIEREN 24 RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIEREN 24 
 http://vipblue.live:8080/Markliez22/xx281122xx/1223
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIEREN 24 HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA PREMIEREN 24 
 http://vipblue.live:8080/Markliez22/xx281122xx/1224
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA SPECIAL RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA SPECIAL 
 http://vipblue.live:8080/Markliez22/xx281122xx/1225
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA SPECIAL HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA SPECIAL 
 http://vipblue.live:8080/Markliez22/xx281122xx/1226
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA THRILLER RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA THRILLER 
 http://vipblue.live:8080/Markliez22/xx281122xx/1227
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA THRILLER HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY CINEMA THRILLER 
 http://vipblue.live:8080/Markliez22/xx281122xx/1228
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SERIEN & SHOWS RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SERIEN & SHOWS 
 http://vipblue.live:8080/Markliez22/xx281122xx/1229
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SERIEN & SHOWS HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SERIEN & SHOWS 
 http://vipblue.live:8080/Markliez22/xx281122xx/1230
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL TV RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/1231
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL TV HEVC
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/1232
-#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO BREMEN RAW
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO BREMEN 
 http://vipblue.live:8080/Markliez22/xx281122xx/135781
 #EXTINF:0 tvg-id="ext" group-title="Channels",??? NEWS ???
 http://vipblue.live:8080/Markliez22/xx281122xx/36327
-#EXTINF:0 tvg-id="ext" group-title="Channels",BILD TV FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BILD TV
 http://vipblue.live:8080/Markliez22/xx281122xx/36328
-#EXTINF:0 tvg-id="ext" group-title="Channels",BILD TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BILD TV
 http://vipblue.live:8080/Markliez22/xx281122xx/36329
-#EXTINF:0 tvg-id="ntv.de" group-title="Channels",N-TV FHD
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",N-TV
 http://vipblue.live:8080/Markliez22/xx281122xx/36330
-#EXTINF:0 tvg-id="ntv.de" group-title="Channels",N-TV HD
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",N-TV
 http://vipblue.live:8080/Markliez22/xx281122xx/36331
-#EXTINF:0 tvg-id="WELT.de" group-title="Channels",WELT FHD
+#EXTINF:0 tvg-id="WELT.de" group-title="Channels",WELT
 http://vipblue.live:8080/Markliez22/xx281122xx/36332
-#EXTINF:0 tvg-id="WELT.de" group-title="Channels",WELT HD
+#EXTINF:0 tvg-id="WELT.de" group-title="Channels",WELT
 http://vipblue.live:8080/Markliez22/xx281122xx/36333
-#EXTINF:0 tvg-id="phoenix.de" group-title="Channels",PHOENIX FHD
+#EXTINF:0 tvg-id="phoenix.de" group-title="Channels",PHOENIX
 http://vipblue.live:8080/Markliez22/xx281122xx/195195
-#EXTINF:0 tvg-id="phoenix.de" group-title="Channels",PHOENIX HD
+#EXTINF:0 tvg-id="phoenix.de" group-title="Channels",PHOENIX
 http://vipblue.live:8080/Markliez22/xx281122xx/36336
-#EXTINF:0 tvg-id="tagesschau24.de" group-title="Channels",TAGESSCHAU 24 FHD
+#EXTINF:0 tvg-id="tagesschau24.de" group-title="Channels",TAGESSCHAU 24
 http://vipblue.live:8080/Markliez22/xx281122xx/195200
-#EXTINF:0 tvg-id="tagesschau24.de" group-title="Channels",TAGESSCHAU 24 HD
+#EXTINF:0 tvg-id="tagesschau24.de" group-title="Channels",TAGESSCHAU 24
 http://vipblue.live:8080/Markliez22/xx281122xx/36335
-#EXTINF:0 tvg-id="ext" group-title="Channels",DER AKTIONAR TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",DER AKTIONAR TV
 http://vipblue.live:8080/Markliez22/xx281122xx/36334
 #EXTINF:0 tvg-id="ext" group-title="Channels",EURONEWS DEUTSCH LIVE
 http://vipblue.live:8080/Markliez22/xx281122xx/36337
-#EXTINF:0 tvg-id="russia-today" group-title="Channels",RT NEWS FHD
+#EXTINF:0 tvg-id="russia-today" group-title="Channels",RT NEWS
 http://vipblue.live:8080/Markliez22/xx281122xx/137941
 #EXTINF:0 tvg-id="ext" group-title="Channels",??? DOKU ???
 http://vipblue.live:8080/Markliez22/xx281122xx/36338
-#EXTINF:0 tvg-id="ext" group-title="Channels",HEALTH TV FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",HEALTH TV
 http://vipblue.live:8080/Markliez22/xx281122xx/138127
-#EXTINF:0 tvg-id="ext" group-title="Channels",HEALTH TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",HEALTH TV
 http://vipblue.live:8080/Markliez22/xx281122xx/170140
-#EXTINF:0 tvg-id="GeoTV.de" group-title="Channels",GEO TV FHD
+#EXTINF:0 tvg-id="GeoTV.de" group-title="Channels",GEO TV
 http://vipblue.live:8080/Markliez22/xx281122xx/135785
-#EXTINF:0 tvg-id="GeoTV.de" group-title="Channels",GEO TV HD
+#EXTINF:0 tvg-id="GeoTV.de" group-title="Channels",GEO TV
 http://vipblue.live:8080/Markliez22/xx281122xx/135786
-#EXTINF:0 tvg-id="hgtv" group-title="Channels",HGTV FHD
+#EXTINF:0 tvg-id="hgtv" group-title="Channels",HGTV
 http://vipblue.live:8080/Markliez22/xx281122xx/135782
-#EXTINF:0 tvg-id="hgtv" group-title="Channels",HGTV HD
+#EXTINF:0 tvg-id="hgtv" group-title="Channels",HGTV
 http://vipblue.live:8080/Markliez22/xx281122xx/36359
-#EXTINF:0 tvg-id="ext" group-title="Channels",N-24 DOKU FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",N-24 DOKU
 http://vipblue.live:8080/Markliez22/xx281122xx/148126
-#EXTINF:0 tvg-id="ext" group-title="Channels",N-24 DOKU HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",N-24 DOKU
 http://vipblue.live:8080/Markliez22/xx281122xx/36339
-#EXTINF:0 tvg-id="animal-hd" group-title="Channels",ANIMAL PLANET HD
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet
 http://vipblue.live:8080/Markliez22/xx281122xx/36340
-#EXTINF:0 tvg-id="animal-hd" group-title="Channels",ANIMAL PLANET FHD
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet
 http://vipblue.live:8080/Markliez22/xx281122xx/36341
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NATIONAL GEOGRAPHIC FHD
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NATIONAL GEOGRAPHIC
 http://vipblue.live:8080/Markliez22/xx281122xx/36342
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NATIONAL GEOGRAPHIC HD
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NATIONAL GEOGRAPHIC
 http://vipblue.live:8080/Markliez22/xx281122xx/36343
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NAT GEO WILD FHD
+#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NAT GEO WILD
 http://vipblue.live:8080/Markliez22/xx281122xx/36344
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NAT GEO WILD HD
+#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NAT GEO WILD
 http://vipblue.live:8080/Markliez22/xx281122xx/36345
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY FHD
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY
 http://vipblue.live:8080/Markliez22/xx281122xx/36347
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY HD
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY
 http://vipblue.live:8080/Markliez22/xx281122xx/36348
-#EXTINF:0 tvg-id="DMAX.it" group-title="Channels",DMAX FHD
+#EXTINF:0 tvg-id="DMAX.it" group-title="Channels",DMAX
 http://vipblue.live:8080/Markliez22/xx281122xx/36349
-#EXTINF:0 tvg-id="DMAX.it" group-title="Channels",DMAX HD
+#EXTINF:0 tvg-id="DMAX.it" group-title="Channels",DMAX
 http://vipblue.live:8080/Markliez22/xx281122xx/36350
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRIME+ INVESTIGATION HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime+Investigation
 http://vipblue.live:8080/Markliez22/xx281122xx/36346
-#EXTINF:0 tvg-id="SkyNature.uk" group-title="Channels",SKY NATURE FHD
+#EXTINF:0 tvg-id="SkyNature.uk" group-title="Channels",SKY NATURE
 http://vipblue.live:8080/Markliez22/xx281122xx/36351
-#EXTINF:0 tvg-id="SkyNature.uk" group-title="Channels",SKY NATURE HD
+#EXTINF:0 tvg-id="SkyNature.uk" group-title="Channels",SKY NATURE
 http://vipblue.live:8080/Markliez22/xx281122xx/36352
-#EXTINF:0 tvg-id="SkyDocumentaries.de" group-title="Channels",SKY DOCUMENTARIES FHD
+#EXTINF:0 tvg-id="SkyDocumentaries.de" group-title="Channels",SKY DOCUMENTARIES
 http://vipblue.live:8080/Markliez22/xx281122xx/36353
-#EXTINF:0 tvg-id="SkyDocumentaries.de" group-title="Channels",SKY DOCUMENTARIES HD
+#EXTINF:0 tvg-id="SkyDocumentaries.de" group-title="Channels",SKY DOCUMENTARIES
 http://vipblue.live:8080/Markliez22/xx281122xx/36354
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC FHD
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC
 http://vipblue.live:8080/Markliez22/xx281122xx/36355
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC
 http://vipblue.live:8080/Markliez22/xx281122xx/36356
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY FHD
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY
 http://vipblue.live:8080/Markliez22/xx281122xx/36357
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY HD
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY
 http://vipblue.live:8080/Markliez22/xx281122xx/36358
-#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="Channels",SPIEGEL GESCHICHTE FHD
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="Channels",SPIEGEL GESCHICHTE
 http://vipblue.live:8080/Markliez22/xx281122xx/36360
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPIEGEL GESHICHTE HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPIEGEL GESHICHTE
 http://vipblue.live:8080/Markliez22/xx281122xx/148128
-#EXTINF:0 tvg-id="SpiegelTV.de" group-title="Channels",SPIEGEL TV WISSEN FHD
+#EXTINF:0 tvg-id="SpiegelTV.de" group-title="Channels",SPIEGEL TV WISSEN
 http://vipblue.live:8080/Markliez22/xx281122xx/36361
-#EXTINF:0 tvg-id="SpiegelTV.de" group-title="Channels",SPIEGEL TV WISSEN HD
+#EXTINF:0 tvg-id="SpiegelTV.de" group-title="Channels",SPIEGEL TV WISSEN
 http://vipblue.live:8080/Markliez22/xx281122xx/148129
-#EXTINF:0 tvg-id="ext" group-title="Channels",BON GUSTO HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BonGusto
 http://vipblue.live:8080/Markliez22/xx281122xx/135787
-#EXTINF:0 tvg-id="BonGusto.de" group-title="Channels",BON GUSTO
+#EXTINF:0 tvg-id="BonGusto.de" group-title="Channels",BonGusto
 http://vipblue.live:8080/Markliez22/xx281122xx/36362
-#EXTINF:0 tvg-id="ext" group-title="Channels",BERGBLICK FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BERGBLICK
 http://vipblue.live:8080/Markliez22/xx281122xx/195510
-#EXTINF:0 tvg-id="ext" group-title="Channels",BERGBLICK HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BERGBLICK
 http://vipblue.live:8080/Markliez22/xx281122xx/148124
-#EXTINF:0 tvg-id="ext" group-title="Channels",WAIDWERK HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",WAIDWERK
 http://vipblue.live:8080/Markliez22/xx281122xx/36363
-#EXTINF:0 tvg-id="ext" group-title="Channels",WAIDWERK FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",WAIDWERK
 http://vipblue.live:8080/Markliez22/xx281122xx/148130
-#EXTINF:0 tvg-id="ext" group-title="Channels",WELT DER WUNDER HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",WELT DER WUNDER
 http://vipblue.live:8080/Markliez22/xx281122xx/148127
 #EXTINF:0 tvg-id="WeltDerWunder.de" group-title="Channels",WELT DER WUNDER
 http://vipblue.live:8080/Markliez22/xx281122xx/36364
-#EXTINF:0 tvg-id="ext" group-title="Channels",MARCO POLO TV FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MARCO POLO TV
 http://vipblue.live:8080/Markliez22/xx281122xx/195511
-#EXTINF:0 tvg-id="ext" group-title="Channels",MARCO POLO TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MARCO POLO TV
 http://vipblue.live:8080/Markliez22/xx281122xx/195512
-#EXTINF:0 tvg-id="ext" group-title="Channels",DW DEUTSCH HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW DEUTSCH
 http://vipblue.live:8080/Markliez22/xx281122xx/148123
 
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",***SPECIAL BOX DOCU***
@@ -646,303 +646,303 @@ http://vipblue.live:8080/Markliez22/xx281122xx/136673
 http://vipblue.live:8080/Markliez22/xx281122xx/148945
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? SPORT ???
 http://vipblue.live:8080/Markliez22/xx281122xx/11103
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT NEWS HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT NEWS 
 http://vipblue.live:8080/Markliez22/xx281122xx/11125
-#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="SPECIAL BOX DOCU",SKY SPORT NEWS FHD
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="SPECIAL BOX DOCU",SKY SPORT NEWS
 http://vipblue.live:8080/Markliez22/xx281122xx/11126
-#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="SPECIAL BOX DOCU",SKY SPORT NEWS HD
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="SPECIAL BOX DOCU",SKY SPORT NEWS
 http://vipblue.live:8080/Markliez22/xx281122xx/11127
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT TOP EVENT HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT TOP EVENT 
 http://vipblue.live:8080/Markliez22/xx281122xx/184138
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT TOP EVENT HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT TOP EVENT
 http://vipblue.live:8080/Markliez22/xx281122xx/184139
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT PREMIER LEAGUE HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT PREMIER LEAGUE 
 http://vipblue.live:8080/Markliez22/xx281122xx/184143
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPECIAL BOX DOCU",SKY SPORT PREMIER LEAGUE HD
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPECIAL BOX DOCU",SKY SPORT PREMIER LEAGUE
 http://vipblue.live:8080/Markliez22/xx281122xx/184144
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT F1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT F1 
 http://vipblue.live:8080/Markliez22/xx281122xx/11122
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="SPECIAL BOX DOCU",SKY SPORT F1 FHD
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="SPECIAL BOX DOCU",SKY SPORT F1
 http://vipblue.live:8080/Markliez22/xx281122xx/11123
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="SPECIAL BOX DOCU",SKY SPORT F1 HD
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="SPECIAL BOX DOCU",SKY SPORT F1
 http://vipblue.live:8080/Markliez22/xx281122xx/11124
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT MIX HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT MIX 
 http://vipblue.live:8080/Markliez22/xx281122xx/184145
-#EXTINF:0 tvg-id="SkySportMix.it" group-title="SPECIAL BOX DOCU",SKY SPORT MIX HD
+#EXTINF:0 tvg-id="SkySportMix.it" group-title="SPECIAL BOX DOCU",SKY SPORT MIX
 http://vipblue.live:8080/Markliez22/xx281122xx/184146
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT TENNIS HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT TENNIS 
 http://vipblue.live:8080/Markliez22/xx281122xx/184141
-#EXTINF:0 tvg-id="SkySportTennis.it" group-title="SPECIAL BOX DOCU",SKY SPORT TENNIS HD
+#EXTINF:0 tvg-id="SkySportTennis.it" group-title="SPECIAL BOX DOCU",SKY SPORT TENNIS
 http://vipblue.live:8080/Markliez22/xx281122xx/184142
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT GOLF HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT GOLF 
 http://vipblue.live:8080/Markliez22/xx281122xx/184148
-#EXTINF:0 tvg-id="SkySportGolf.it" group-title="SPECIAL BOX DOCU",SKY SPORT GOLF HD
+#EXTINF:0 tvg-id="SkySportGolf.it" group-title="SPECIAL BOX DOCU",SKY SPORT GOLF
 http://vipblue.live:8080/Markliez22/xx281122xx/184147
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 1 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/11129
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/11130
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 1 FHD
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11131
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 1 HD
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11132
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 2 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/11133
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 2 HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/11134
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 2 FHD
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/11135
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 2 HD
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/11136
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 3 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 3 
 http://vipblue.live:8080/Markliez22/xx281122xx/190574
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 3 FHD
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/11137
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 3 HD
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/11138
-#EXTINF:0 tvg-id="SkySports4.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 4 FHD
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/11139
-#EXTINF:0 tvg-id="SkySports4.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 4 HD
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/11140
-#EXTINF:0 tvg-id="SkySports5.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 5 FHD
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/11141
-#EXTINF:0 tvg-id="SkySports5.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 5 HD
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="SPECIAL BOX DOCU",SKY SPORT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/11142
-#EXTINF:0 tvg-id="SkySport6.de" group-title="SPECIAL BOX DOCU",SKY SPORT 6 FHD
+#EXTINF:0 tvg-id="SkySport6.de" group-title="SPECIAL BOX DOCU",SKY SPORT 6
 http://vipblue.live:8080/Markliez22/xx281122xx/11143
-#EXTINF:0 tvg-id="SkySport6.de" group-title="SPECIAL BOX DOCU",SKY SPORT 6 HD
+#EXTINF:0 tvg-id="SkySport6.de" group-title="SPECIAL BOX DOCU",SKY SPORT 6
 http://vipblue.live:8080/Markliez22/xx281122xx/11144
-#EXTINF:0 tvg-id="SkySport7.de" group-title="SPECIAL BOX DOCU",SKY SPORT 7 FHD
+#EXTINF:0 tvg-id="SkySport7.de" group-title="SPECIAL BOX DOCU",SKY SPORT 7
 http://vipblue.live:8080/Markliez22/xx281122xx/11145
-#EXTINF:0 tvg-id="SkySport7.de" group-title="SPECIAL BOX DOCU",SKY SPORT 7 HD
+#EXTINF:0 tvg-id="SkySport7.de" group-title="SPECIAL BOX DOCU",SKY SPORT 7
 http://vipblue.live:8080/Markliez22/xx281122xx/11146
-#EXTINF:0 tvg-id="SkySport8.de" group-title="SPECIAL BOX DOCU",SKY SPORT 8 FHD
+#EXTINF:0 tvg-id="SkySport8.de" group-title="SPECIAL BOX DOCU",SKY SPORT 8
 http://vipblue.live:8080/Markliez22/xx281122xx/11147
-#EXTINF:0 tvg-id="SkySport8.de" group-title="SPECIAL BOX DOCU",SKY SPORT 8 HD
+#EXTINF:0 tvg-id="SkySport8.de" group-title="SPECIAL BOX DOCU",SKY SPORT 8
 http://vipblue.live:8080/Markliez22/xx281122xx/117658
-#EXTINF:0 tvg-id="SkySport9.de" group-title="SPECIAL BOX DOCU",SKY SPORT 9 FHD
+#EXTINF:0 tvg-id="SkySport9.de" group-title="SPECIAL BOX DOCU",SKY SPORT 9
 http://vipblue.live:8080/Markliez22/xx281122xx/11148
-#EXTINF:0 tvg-id="SkySport9.de" group-title="SPECIAL BOX DOCU",SKY SPORT 9 HD
+#EXTINF:0 tvg-id="SkySport9.de" group-title="SPECIAL BOX DOCU",SKY SPORT 9
 http://vipblue.live:8080/Markliez22/xx281122xx/11149
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 10 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 10
 http://vipblue.live:8080/Markliez22/xx281122xx/11150
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 10 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 10
 http://vipblue.live:8080/Markliez22/xx281122xx/117659
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 11 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 11
 http://vipblue.live:8080/Markliez22/xx281122xx/11151
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 11 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 11
 http://vipblue.live:8080/Markliez22/xx281122xx/117660
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",AMAZON PRIME SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11104
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",AMAZON PRIME SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/125465
-#EXTINF:0 tvg-id="ORFSport.at" group-title="SPECIAL BOX DOCU",ORF SPORT+ HD
+#EXTINF:0 tvg-id="ORFSport.at" group-title="SPECIAL BOX DOCU",ORF SPORT+
 http://vipblue.live:8080/Markliez22/xx281122xx/11096
 #EXTINF:0 tvg-id="ORFSport.at" group-title="SPECIAL BOX DOCU",ORF SPORT+
 http://vipblue.live:8080/Markliez22/xx281122xx/170186
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 1 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/148755
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/11162
-#EXTINF:0 tvg-id="SkySportAustria.de" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 1 FHD
+#EXTINF:0 tvg-id="SkySportAustria.de" group-title="SPECIAL BOX DOCU",SKY SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11163
-#EXTINF:0 tvg-id="SkySportAustria.de" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 1 HD
+#EXTINF:0 tvg-id="SkySportAustria.de" group-title="SPECIAL BOX DOCU",SKY SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11164
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 2 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/148756
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/11165
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 2 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/11166
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 3 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 3 
 http://vipblue.live:8080/Markliez22/xx281122xx/148757
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/11167
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 3 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/11168
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 4 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 4 
 http://vipblue.live:8080/Markliez22/xx281122xx/148758
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/11169
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 4 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/11170
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 5 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 5 
 http://vipblue.live:8080/Markliez22/xx281122xx/148759
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/11171
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 5 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/11172
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 6 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 6 
 http://vipblue.live:8080/Markliez22/xx281122xx/148760
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 6 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 6
 http://vipblue.live:8080/Markliez22/xx281122xx/11173
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 6 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 6
 http://vipblue.live:8080/Markliez22/xx281122xx/11174
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 7 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 7 
 http://vipblue.live:8080/Markliez22/xx281122xx/148761
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 7 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 7
 http://vipblue.live:8080/Markliez22/xx281122xx/11175
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT AUSTRIA 7 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT 7
 http://vipblue.live:8080/Markliez22/xx281122xx/11176
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EUROSPORT 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EUROSPORT 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/11155
-#EXTINF:0 tvg-id="esp-hd" group-title="SPECIAL BOX DOCU",EUROSPORT 1 FHD
+#EXTINF:0 tvg-id="esp-hd" group-title="SPECIAL BOX DOCU",EUROSPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11156
-#EXTINF:0 tvg-id="esp-hd" group-title="SPECIAL BOX DOCU",EUROSPORT 1 HD
+#EXTINF:0 tvg-id="esp-hd" group-title="SPECIAL BOX DOCU",EUROSPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11157
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EUROSPORT 2 HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EUROSPORT 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/11158
-#EXTINF:0 tvg-id="esp2" group-title="SPECIAL BOX DOCU",EUROSPORT 2 FHD
+#EXTINF:0 tvg-id="esp2" group-title="SPECIAL BOX DOCU",EUROSPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/11159
-#EXTINF:0 tvg-id="esp2" group-title="SPECIAL BOX DOCU",EUROSPORT 2 HD
+#EXTINF:0 tvg-id="esp2" group-title="SPECIAL BOX DOCU",EUROSPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/11160
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SPORT 1 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/11116
-#EXTINF:0 tvg-id="sport1_hd" group-title="SPECIAL BOX DOCU",SPORT 1 FHD
+#EXTINF:0 tvg-id="sport1_hd" group-title="SPECIAL BOX DOCU",SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11117
-#EXTINF:0 tvg-id="sport1_hd" group-title="SPECIAL BOX DOCU",SPORT 1 HD
+#EXTINF:0 tvg-id="sport1_hd" group-title="SPECIAL BOX DOCU",SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11118
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SPORT 1+ KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/11119
-#EXTINF:0 tvg-id="SPORT1plus.de" group-title="SPECIAL BOX DOCU",SPORT 1+ FHD
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="SPECIAL BOX DOCU",SPORT 1+
 http://vipblue.live:8080/Markliez22/xx281122xx/11120
-#EXTINF:0 tvg-id="SPORT1plus.de" group-title="SPECIAL BOX DOCU",SPORT 1+ HD
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="SPECIAL BOX DOCU",SPORT 1+
 http://vipblue.live:8080/Markliez22/xx281122xx/11121
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SPORTDIGITAL FUSSBALL FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SPORTDIGITAL FUSSBALL
 http://vipblue.live:8080/Markliez22/xx281122xx/11177
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SPORTDIGITAL FUSSBALL HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SPORTDIGITAL FUSSBALL
 http://vipblue.live:8080/Markliez22/xx281122xx/11178
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MOTORVISION TV FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MOTORVISION TV
 http://vipblue.live:8080/Markliez22/xx281122xx/195514
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MOTORVISION TV HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MOTORVISION TV
 http://vipblue.live:8080/Markliez22/xx281122xx/11179
-#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="SPECIAL BOX DOCU",AUTO MOTOR SPORT FHD
+#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="SPECIAL BOX DOCU",AUTO MOTOR UND SPORT
 http://vipblue.live:8080/Markliez22/xx281122xx/195515
-#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="SPECIAL BOX DOCU",AUTO MOTOR SPORT HD
+#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="SPECIAL BOX DOCU",AUTO MOTOR UND SPORT
 http://vipblue.live:8080/Markliez22/xx281122xx/11182
-#EXTINF:0 tvg-id="extreme-sports" group-title="SPECIAL BOX DOCU",EXTREME SPORTS FHD
+#EXTINF:0 tvg-id="extreme-sports" group-title="SPECIAL BOX DOCU",EXTREME SPORTS
 http://vipblue.live:8080/Markliez22/xx281122xx/195517
-#EXTINF:0 tvg-id="extreme-sports" group-title="SPECIAL BOX DOCU",EXTREME SPORTS HD
+#EXTINF:0 tvg-id="extreme-sports" group-title="SPECIAL BOX DOCU",EXTREME SPORTS
 http://vipblue.live:8080/Markliez22/xx281122xx/195516
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",ESPORTS1 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",ESPORTS1
 http://vipblue.live:8080/Markliez22/xx281122xx/195513
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",ESPORTS1 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",ESPORTS1
 http://vipblue.live:8080/Markliez22/xx281122xx/11180
-#EXTINF:0 tvg-id="EdgeSport.nl" group-title="SPECIAL BOX DOCU",EDGE SPORT FHD
+#EXTINF:0 tvg-id="EdgeSport.nl" group-title="SPECIAL BOX DOCU",EDGE SPORT
 http://vipblue.live:8080/Markliez22/xx281122xx/11181
-#EXTINF:0 tvg-id="EdgeSport.nl" group-title="SPECIAL BOX DOCU",EDGE SPORT HD
+#EXTINF:0 tvg-id="EdgeSport.nl" group-title="SPECIAL BOX DOCU",EDGE SPORT
 http://vipblue.live:8080/Markliez22/xx281122xx/195518
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? SKY BUNDESLIGA ???
 http://vipblue.live:8080/Markliez22/xx281122xx/26208
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA UHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/11185
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 1 FEED
 http://vipblue.live:8080/Markliez22/xx281122xx/11184
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 1 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/11187
-#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 1 FHD
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 1
 http://vipblue.live:8080/Markliez22/xx281122xx/26211
-#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 1 HD
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 1
 http://vipblue.live:8080/Markliez22/xx281122xx/26212
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 2 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/11188
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 2 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 2 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26213
-#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 2 HD
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 2
 http://vipblue.live:8080/Markliez22/xx281122xx/26216
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 3 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 3 
 http://vipblue.live:8080/Markliez22/xx281122xx/11191
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 3 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 3 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26217
-#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 3 HD
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 3
 http://vipblue.live:8080/Markliez22/xx281122xx/26219
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 4 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 4 
 http://vipblue.live:8080/Markliez22/xx281122xx/11193
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 4 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 4 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26220
-#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 4 HD
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 4
 http://vipblue.live:8080/Markliez22/xx281122xx/26221
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 5 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 5 
 http://vipblue.live:8080/Markliez22/xx281122xx/11195
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 5 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 5 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26222
-#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 5 HD
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 5
 http://vipblue.live:8080/Markliez22/xx281122xx/26223
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 6 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 6 
 http://vipblue.live:8080/Markliez22/xx281122xx/11197
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 6 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 6 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26224
-#EXTINF:0 tvg-id="SkyBundesliga6.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 6 HD
+#EXTINF:0 tvg-id="SkyBundesliga6.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 6
 http://vipblue.live:8080/Markliez22/xx281122xx/26225
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 7 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 7 
 http://vipblue.live:8080/Markliez22/xx281122xx/11199
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 7 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 7 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26226
-#EXTINF:0 tvg-id="SkyBundesliga7.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 7 HD
+#EXTINF:0 tvg-id="SkyBundesliga7.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 7
 http://vipblue.live:8080/Markliez22/xx281122xx/26227
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 8 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 8 
 http://vipblue.live:8080/Markliez22/xx281122xx/11201
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 8 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 8 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26228
-#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 8 HD
+#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 8
 http://vipblue.live:8080/Markliez22/xx281122xx/26229
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 9 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 9 
 http://vipblue.live:8080/Markliez22/xx281122xx/11203
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 9 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 9 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26230
-#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 9 HD
+#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 9
 http://vipblue.live:8080/Markliez22/xx281122xx/26231
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 10 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 10 
 http://vipblue.live:8080/Markliez22/xx281122xx/11204
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 10 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 10 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/26232
-#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 10 HD
+#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="SPECIAL BOX DOCU",SKY BUNDESLIGA 10
 http://vipblue.live:8080/Markliez22/xx281122xx/26233
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? SKY SPORT BUNDESLIGA ???
 http://vipblue.live:8080/Markliez22/xx281122xx/11183
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 
 http://vipblue.live:8080/Markliez22/xx281122xx/184149
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184150
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 1 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/184151
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 1 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 1 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184152
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 2 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/184153
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 2 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 2 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184170
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 3 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 3 
 http://vipblue.live:8080/Markliez22/xx281122xx/184154
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 3 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 3 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184155
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 4 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 4 
 http://vipblue.live:8080/Markliez22/xx281122xx/184156
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 4 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 4 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184157
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 5 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 5 
 http://vipblue.live:8080/Markliez22/xx281122xx/184158
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 5 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 5 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184159
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 6 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 6 
 http://vipblue.live:8080/Markliez22/xx281122xx/184160
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 6 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 6 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184161
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 7 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 7 
 http://vipblue.live:8080/Markliez22/xx281122xx/184162
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 7 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 7 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184163
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 8 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 8 
 http://vipblue.live:8080/Markliez22/xx281122xx/184164
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 8 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 8 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184165
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 9 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 9 
 http://vipblue.live:8080/Markliez22/xx281122xx/184166
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 9 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 9 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184167
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 10 RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 10 
 http://vipblue.live:8080/Markliez22/xx281122xx/184168
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 10 FHD KABEL
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SPORT BUNDESLIGA 10 KABEL
 http://vipblue.live:8080/Markliez22/xx281122xx/184169
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? RTL+ SPORT ???
 http://vipblue.live:8080/Markliez22/xx281122xx/64962
@@ -968,375 +968,375 @@ http://vipblue.live:8080/Markliez22/xx281122xx/64971
 http://vipblue.live:8080/Markliez22/xx281122xx/64972
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? DAZN SPORT ???
 http://vipblue.live:8080/Markliez22/xx281122xx/64929
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 1 KABEL RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 1 KABEL 
 http://vipblue.live:8080/Markliez22/xx281122xx/64930
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/64931
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/64932
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/64933
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 2 KABEL RAW
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 2 KABEL 
 http://vipblue.live:8080/Markliez22/xx281122xx/64934
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 2 HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/64935
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/64936
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/64937
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EUROSPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EUROSPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/64938
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EUROSPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EUROSPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/64939
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORTDIGITAL HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN SPORTDIGITAL
 http://vipblue.live:8080/Markliez22/xx281122xx/64940
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN NBA HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN NBA
 http://vipblue.live:8080/Markliez22/xx281122xx/64941
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN NFL NETWORK HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN NFL NETWORK
 http://vipblue.live:8080/Markliez22/xx281122xx/64942
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN MBL HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN MBL
 http://vipblue.live:8080/Markliez22/xx281122xx/64943
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN LFC TV HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN LFC TV
 http://vipblue.live:8080/Markliez22/xx281122xx/64944
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? DAZN EVENT ???
 http://vipblue.live:8080/Markliez22/xx281122xx/64973
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/64945
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/64946
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 3 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/64947
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 4 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/64948
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 5 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/64949
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 6 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 6
 http://vipblue.live:8080/Markliez22/xx281122xx/64950
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 7 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 7
 http://vipblue.live:8080/Markliez22/xx281122xx/64951
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 8 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 8
 http://vipblue.live:8080/Markliez22/xx281122xx/64952
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 9 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 9
 http://vipblue.live:8080/Markliez22/xx281122xx/64953
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 10 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 10
 http://vipblue.live:8080/Markliez22/xx281122xx/64954
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 11 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 11
 http://vipblue.live:8080/Markliez22/xx281122xx/64955
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 12 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 12
 http://vipblue.live:8080/Markliez22/xx281122xx/64956
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 13 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 13
 http://vipblue.live:8080/Markliez22/xx281122xx/64957
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 14 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 14
 http://vipblue.live:8080/Markliez22/xx281122xx/64958
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 15 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 15
 http://vipblue.live:8080/Markliez22/xx281122xx/64959
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 16 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 16
 http://vipblue.live:8080/Markliez22/xx281122xx/64960
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 17 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 17
 http://vipblue.live:8080/Markliez22/xx281122xx/64961
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? MAGENTA SPORT ???
 http://vipblue.live:8080/Markliez22/xx281122xx/11291
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",FC BAYERN TV FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",FC BAYERN TV
 http://vipblue.live:8080/Markliez22/xx281122xx/11161
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",FC BAYERN TV HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",FC BAYERN TV
 http://vipblue.live:8080/Markliez22/xx281122xx/165866
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV PROGRAMMUBERSICHT FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV PROGRAMMUBERSICHT
 http://vipblue.live:8080/Markliez22/xx281122xx/165826
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV PROGRAMMUBERSICHT HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV PROGRAMMUBERSICHT
 http://vipblue.live:8080/Markliez22/xx281122xx/165827
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 1
 http://vipblue.live:8080/Markliez22/xx281122xx/165828
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 1 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 1
 http://vipblue.live:8080/Markliez22/xx281122xx/165829
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 2
 http://vipblue.live:8080/Markliez22/xx281122xx/165830
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 2 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 2
 http://vipblue.live:8080/Markliez22/xx281122xx/165831
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 3
 http://vipblue.live:8080/Markliez22/xx281122xx/165832
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 3 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 3
 http://vipblue.live:8080/Markliez22/xx281122xx/165833
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 4
 http://vipblue.live:8080/Markliez22/xx281122xx/165834
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 4 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 4
 http://vipblue.live:8080/Markliez22/xx281122xx/165835
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 5
 http://vipblue.live:8080/Markliez22/xx281122xx/165836
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 5 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 5
 http://vipblue.live:8080/Markliez22/xx281122xx/165837
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 6 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 6
 http://vipblue.live:8080/Markliez22/xx281122xx/165838
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 6 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 6
 http://vipblue.live:8080/Markliez22/xx281122xx/165839
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 7 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 7
 http://vipblue.live:8080/Markliez22/xx281122xx/165840
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 7 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 7
 http://vipblue.live:8080/Markliez22/xx281122xx/165841
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 8 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 8
 http://vipblue.live:8080/Markliez22/xx281122xx/165842
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 8 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 8
 http://vipblue.live:8080/Markliez22/xx281122xx/165843
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 9 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 9
 http://vipblue.live:8080/Markliez22/xx281122xx/165844
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 9 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 9
 http://vipblue.live:8080/Markliez22/xx281122xx/165845
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 10 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 10
 http://vipblue.live:8080/Markliez22/xx281122xx/165846
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 10 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 10
 http://vipblue.live:8080/Markliez22/xx281122xx/165847
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 11 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 11
 http://vipblue.live:8080/Markliez22/xx281122xx/165848
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 11 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 11
 http://vipblue.live:8080/Markliez22/xx281122xx/165849
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 12 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 12
 http://vipblue.live:8080/Markliez22/xx281122xx/165850
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 12 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 12
 http://vipblue.live:8080/Markliez22/xx281122xx/165851
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 13 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 13
 http://vipblue.live:8080/Markliez22/xx281122xx/165852
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 13 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 13
 http://vipblue.live:8080/Markliez22/xx281122xx/165853
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 14 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 14
 http://vipblue.live:8080/Markliez22/xx281122xx/165854
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 14 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 14
 http://vipblue.live:8080/Markliez22/xx281122xx/165855
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 15 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 15
 http://vipblue.live:8080/Markliez22/xx281122xx/165856
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 15 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 15
 http://vipblue.live:8080/Markliez22/xx281122xx/165857
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 16 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 16
 http://vipblue.live:8080/Markliez22/xx281122xx/165858
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 16 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 16
 http://vipblue.live:8080/Markliez22/xx281122xx/165859
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 17 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 17
 http://vipblue.live:8080/Markliez22/xx281122xx/165860
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 17 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 17
 http://vipblue.live:8080/Markliez22/xx281122xx/165861
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 18 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 18
 http://vipblue.live:8080/Markliez22/xx281122xx/165862
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 18 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 18
 http://vipblue.live:8080/Markliez22/xx281122xx/165863
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 19 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 19
 http://vipblue.live:8080/Markliez22/xx281122xx/165864
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 19 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MYTEAM TV 19
 http://vipblue.live:8080/Markliez22/xx281122xx/165865
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 18 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 18
 http://vipblue.live:8080/Markliez22/xx281122xx/202610
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 19 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 19
 http://vipblue.live:8080/Markliez22/xx281122xx/202611
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 20 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",DAZN EVENT 20
 http://vipblue.live:8080/Markliez22/xx281122xx/202612
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? SKY CINEMA ???
 http://vipblue.live:8080/Markliez22/xx281122xx/2789
-#EXTINF:0 tvg-id="13thStreet.de" group-title="SPECIAL BOX DOCU",13TH STREET FHD
+#EXTINF:0 tvg-id="13thStreet.de" group-title="SPECIAL BOX DOCU",13th Street Universal
 http://vipblue.live:8080/Markliez22/xx281122xx/2790
-#EXTINF:0 tvg-id="13thStreet.de" group-title="SPECIAL BOX DOCU",13TH STREET HD
+#EXTINF:0 tvg-id="13thStreet.de" group-title="SPECIAL BOX DOCU",13th Street Universal
 http://vipblue.live:8080/Markliez22/xx281122xx/2791
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SHOWCASE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SHOWCASE
 http://vipblue.live:8080/Markliez22/xx281122xx/192065
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SHOWCASE HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SHOWCASE
 http://vipblue.live:8080/Markliez22/xx281122xx/192064
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY KRIMI HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY KRIMI
 http://vipblue.live:8080/Markliez22/xx281122xx/2792
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY KRIMI FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY KRIMI
 http://vipblue.live:8080/Markliez22/xx281122xx/2793
-#EXTINF:0 tvg-id="SkyCrime.de" group-title="SPECIAL BOX DOCU",SKY CRIME FHD
+#EXTINF:0 tvg-id="SkyCrime.de" group-title="SPECIAL BOX DOCU",SKY CRIME
 http://vipblue.live:8080/Markliez22/xx281122xx/2794
-#EXTINF:0 tvg-id="SkyCrime.de" group-title="SPECIAL BOX DOCU",SKY CRIME HD
+#EXTINF:0 tvg-id="SkyCrime.de" group-title="SPECIAL BOX DOCU",SKY CRIME
 http://vipblue.live:8080/Markliez22/xx281122xx/2795
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SPECIAL BOX DOCU",SKY COMEDY FHD
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SPECIAL BOX DOCU",SKY COMEDY
 http://vipblue.live:8080/Markliez22/xx281122xx/2796
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SPECIAL BOX DOCU",SKY COMEDY HD
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SPECIAL BOX DOCU",SKY COMEDY
 http://vipblue.live:8080/Markliez22/xx281122xx/2797
-#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="SPECIAL BOX DOCU",SKY CINEMA BEST OF FHD
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="SPECIAL BOX DOCU",SKY CINEMA BEST OF
 http://vipblue.live:8080/Markliez22/xx281122xx/2800
-#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="SPECIAL BOX DOCU",SKY CINEMA BEST OF HD
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="SPECIAL BOX DOCU",SKY CINEMA BEST OF
 http://vipblue.live:8080/Markliez22/xx281122xx/2801
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA ACTION FHD
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA ACTION
 http://vipblue.live:8080/Markliez22/xx281122xx/2798
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA ACTION HD
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA ACTION
 http://vipblue.live:8080/Markliez22/xx281122xx/2799
-#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="SPECIAL BOX DOCU",SKY CINEMA THRILLER FHD
+#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="SPECIAL BOX DOCU",SKY CINEMA THRILLER
 http://vipblue.live:8080/Markliez22/xx281122xx/2808
-#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="SPECIAL BOX DOCU",SKY CINEMA THRILLER HD
+#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="SPECIAL BOX DOCU",SKY CINEMA THRILLER
 http://vipblue.live:8080/Markliez22/xx281122xx/2809
-#EXTINF:0 tvg-id="SkyPremieren.de" group-title="SPECIAL BOX DOCU",SKY CINEMA PREMIEREN FHD
+#EXTINF:0 tvg-id="SkyPremieren.de" group-title="SPECIAL BOX DOCU",SKY CINEMA PREMIEREN
 http://vipblue.live:8080/Markliez22/xx281122xx/2804
-#EXTINF:0 tvg-id="SkyPremieren.de" group-title="SPECIAL BOX DOCU",SKY CINEMA PREMIEREN HD
+#EXTINF:0 tvg-id="SkyPremieren.de" group-title="SPECIAL BOX DOCU",SKY CINEMA PREMIEREN
 http://vipblue.live:8080/Markliez22/xx281122xx/2805
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY CINEMA PREMIEREN 24 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY CINEMA PREMIEREN 24
 http://vipblue.live:8080/Markliez22/xx281122xx/2806
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY CINEMA PREMIEREN 24 HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY CINEMA PREMIEREN 24
 http://vipblue.live:8080/Markliez22/xx281122xx/2807
-#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="SPECIAL BOX DOCU",SKY CINEMA SPECIAL FHD
+#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="SPECIAL BOX DOCU",SKY CINEMA SPECIAL
 http://vipblue.live:8080/Markliez22/xx281122xx/2810
-#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="SPECIAL BOX DOCU",SKY CINEMA SPECIAL HD
+#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="SPECIAL BOX DOCU",SKY CINEMA SPECIAL
 http://vipblue.live:8080/Markliez22/xx281122xx/2811
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA FAMILY FHD
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA FAMILY
 http://vipblue.live:8080/Markliez22/xx281122xx/2812
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA FAMILY HD
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA FAMILY
 http://vipblue.live:8080/Markliez22/xx281122xx/2813
-#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="SPECIAL BOX DOCU",SKY CINEMA FUN HD
+#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="SPECIAL BOX DOCU",SKY CINEMA FUN
 http://vipblue.live:8080/Markliez22/xx281122xx/2814
 #EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="SPECIAL BOX DOCU",SKY CINEMA FUN
 http://vipblue.live:8080/Markliez22/xx281122xx/2815
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA COMEDY HD
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="SPECIAL BOX DOCU",SKY CINEMA COMEDY
 http://vipblue.live:8080/Markliez22/xx281122xx/2817
-#EXTINF:0 tvg-id="SkyCinemaClassics.it" group-title="SPECIAL BOX DOCU",SKY CINEMA CLASSIC HD
+#EXTINF:0 tvg-id="SkyCinemaClassics.it" group-title="SPECIAL BOX DOCU",SKY CINEMA CLASSIC
 http://vipblue.live:8080/Markliez22/xx281122xx/2818
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="SPECIAL BOX DOCU",SKY ATLANTIC FHD
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="SPECIAL BOX DOCU",SKY ATLANTIC
 http://vipblue.live:8080/Markliez22/xx281122xx/2836
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="SPECIAL BOX DOCU",SKY ATLANTIC HD
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="SPECIAL BOX DOCU",SKY ATLANTIC
 http://vipblue.live:8080/Markliez22/xx281122xx/2837
-#EXTINF:0 tvg-id="Sky1.uk" group-title="SPECIAL BOX DOCU",SKY ONE FHD
+#EXTINF:0 tvg-id="Sky1.uk" group-title="SPECIAL BOX DOCU",SKY ONE
 http://vipblue.live:8080/Markliez22/xx281122xx/2838
-#EXTINF:0 tvg-id="Sky1.uk" group-title="SPECIAL BOX DOCU",SKY ONE HD
+#EXTINF:0 tvg-id="Sky1.uk" group-title="SPECIAL BOX DOCU",SKY ONE
 http://vipblue.live:8080/Markliez22/xx281122xx/2839
-#EXTINF:0 tvg-id="set" group-title="SPECIAL BOX DOCU",SONY CHANNEL FHD
+#EXTINF:0 tvg-id="set" group-title="SPECIAL BOX DOCU",SONY CHANNEL
 http://vipblue.live:8080/Markliez22/xx281122xx/195393
-#EXTINF:0 tvg-id="set" group-title="SPECIAL BOX DOCU",SONY CHANNEL HD
+#EXTINF:0 tvg-id="set" group-title="SPECIAL BOX DOCU",SONY CHANNEL
 http://vipblue.live:8080/Markliez22/xx281122xx/2822
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SONY AXN FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SONY AXN
 http://vipblue.live:8080/Markliez22/xx281122xx/195395
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SONY AXN HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SONY AXN
 http://vipblue.live:8080/Markliez22/xx281122xx/2821
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="SPECIAL BOX DOCU",SYFY FHD
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="SPECIAL BOX DOCU",SYFY
 http://vipblue.live:8080/Markliez22/xx281122xx/2824
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="SPECIAL BOX DOCU",SYFY HD
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="SPECIAL BOX DOCU",SYFY
 http://vipblue.live:8080/Markliez22/xx281122xx/2825
-#EXTINF:0 tvg-id="Kinowelt.de" group-title="SPECIAL BOX DOCU",KINOWELT TV FHD
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="SPECIAL BOX DOCU",KINOWELT TV
 http://vipblue.live:8080/Markliez22/xx281122xx/195394
-#EXTINF:0 tvg-id="Kinowelt.de" group-title="SPECIAL BOX DOCU",KINOWELT TV HD
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="SPECIAL BOX DOCU",KINOWELT TV
 http://vipblue.live:8080/Markliez22/xx281122xx/2820
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SILVERLINE HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SILVERLINE
 http://vipblue.live:8080/Markliez22/xx281122xx/2823
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV COMEDY FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV COMEDY
 http://vipblue.live:8080/Markliez22/xx281122xx/2826
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV COMEDY HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV COMEDY
 http://vipblue.live:8080/Markliez22/xx281122xx/2827
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV FILM FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV FILM
 http://vipblue.live:8080/Markliez22/xx281122xx/2828
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV FILM HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV FILM
 http://vipblue.live:8080/Markliez22/xx281122xx/2829
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV SERIE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV SERIE
 http://vipblue.live:8080/Markliez22/xx281122xx/2830
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV SERIE HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",WARNER TV SERIE
 http://vipblue.live:8080/Markliez22/xx281122xx/2831
-#EXTINF:0 tvg-id="E!.pl" group-title="SPECIAL BOX DOCU",E! ENTERTAINMENT FHD
+#EXTINF:0 tvg-id="E!.pl" group-title="SPECIAL BOX DOCU",E! ENTERTAINMENT
 http://vipblue.live:8080/Markliez22/xx281122xx/2832
-#EXTINF:0 tvg-id="E!.pl" group-title="SPECIAL BOX DOCU",E! ENTERTAINMENT HD
+#EXTINF:0 tvg-id="E!.pl" group-title="SPECIAL BOX DOCU",E! ENTERTAINMENT
 http://vipblue.live:8080/Markliez22/xx281122xx/2833
-#EXTINF:0 tvg-id="Universalchannel.br" group-title="SPECIAL BOX DOCU",UNIVERSAL TV FHD
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="SPECIAL BOX DOCU",UNIVERSAL TV
 http://vipblue.live:8080/Markliez22/xx281122xx/2834
-#EXTINF:0 tvg-id="Universalchannel.br" group-title="SPECIAL BOX DOCU",UNIVERSAL TV HD
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="SPECIAL BOX DOCU",UNIVERSAL TV
 http://vipblue.live:8080/Markliez22/xx281122xx/2835
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? SKY SELECT ???
 http://vipblue.live:8080/Markliez22/xx281122xx/2844
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 1
 http://vipblue.live:8080/Markliez22/xx281122xx/2845
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 2
 http://vipblue.live:8080/Markliez22/xx281122xx/2846
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 3
 http://vipblue.live:8080/Markliez22/xx281122xx/2847
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 4
 http://vipblue.live:8080/Markliez22/xx281122xx/2848
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 5
 http://vipblue.live:8080/Markliez22/xx281122xx/2849
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 6 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 6
 http://vipblue.live:8080/Markliez22/xx281122xx/2850
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 7 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 7
 http://vipblue.live:8080/Markliez22/xx281122xx/2851
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 8 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 8
 http://vipblue.live:8080/Markliez22/xx281122xx/2852
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 9 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 9
 http://vipblue.live:8080/Markliez22/xx281122xx/2853
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 10 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 10
 http://vipblue.live:8080/Markliez22/xx281122xx/2854
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 11 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 11
 http://vipblue.live:8080/Markliez22/xx281122xx/2855
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 12 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 12
 http://vipblue.live:8080/Markliez22/xx281122xx/2856
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 13 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 13
 http://vipblue.live:8080/Markliez22/xx281122xx/2857
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 14 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 14
 http://vipblue.live:8080/Markliez22/xx281122xx/2858
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 15 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SKY SELECT PREMIERE 15
 http://vipblue.live:8080/Markliez22/xx281122xx/2859
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? MAX SELECT ???
 http://vipblue.live:8080/Markliez22/xx281122xx/2860
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 4K
 http://vipblue.live:8080/Markliez22/xx281122xx/2862
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/2866
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/2867
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/2868
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/2869
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/2870
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 6 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 6
 http://vipblue.live:8080/Markliez22/xx281122xx/2871
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 7 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX SELECT 7
 http://vipblue.live:8080/Markliez22/xx281122xx/2872
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? KINO ???
 http://vipblue.live:8080/Markliez22/xx281122xx/11227
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA ACTION FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA ACTION
 http://vipblue.live:8080/Markliez22/xx281122xx/11228
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA ANIMATION FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA ANIMATION
 http://vipblue.live:8080/Markliez22/xx281122xx/11229
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA ABENTEUER FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA ABENTEUER
 http://vipblue.live:8080/Markliez22/xx281122xx/11230
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA BOLLYWOOD FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA BOLLYWOOD
 http://vipblue.live:8080/Markliez22/xx281122xx/11231
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA BIOGRAFIE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA BIOGRAFIE
 http://vipblue.live:8080/Markliez22/xx281122xx/11232
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA DRAMA FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA DRAMA
 http://vipblue.live:8080/Markliez22/xx281122xx/11233
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA HORROR FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA HORROR
 http://vipblue.live:8080/Markliez22/xx281122xx/11234
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA FAMILLIE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA FAMILLIE
 http://vipblue.live:8080/Markliez22/xx281122xx/11235
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA FANTASIE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA FANTASIE
 http://vipblue.live:8080/Markliez22/xx281122xx/11236
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA KOMEDIE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA KOMEDIE
 http://vipblue.live:8080/Markliez22/xx281122xx/11237
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA KINOSAAL FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA KINOSAAL
 http://vipblue.live:8080/Markliez22/xx281122xx/11238
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA LHELN FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA LHELN
 http://vipblue.live:8080/Markliez22/xx281122xx/11239
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA GESCHICHTE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA GESCHICHTE
 http://vipblue.live:8080/Markliez22/xx281122xx/11240
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA MYTHOLOGIE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA MYTHOLOGIE
 http://vipblue.live:8080/Markliez22/xx281122xx/11241
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA PREMIERE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA PREMIERE
 http://vipblue.live:8080/Markliez22/xx281122xx/11242
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA ROMANTISCH FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA ROMANTISCH
 http://vipblue.live:8080/Markliez22/xx281122xx/11243
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA THRILLER FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA THRILLER
 http://vipblue.live:8080/Markliez22/xx281122xx/11244
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA SCI-FI FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA SCI-FI
 http://vipblue.live:8080/Markliez22/xx281122xx/11245
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA SPAGHETTI WESTERN FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EAGLE CINEMA SPAGHETTI WESTERN
 http://vipblue.live:8080/Markliez22/xx281122xx/11246
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",CINEDOME 007 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",CINEDOME 007
 http://vipblue.live:8080/Markliez22/xx281122xx/11247
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX STAR WARS FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX STAR WARS
 http://vipblue.live:8080/Markliez22/xx281122xx/11265
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX PREMIERE FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX PREMIERE
 http://vipblue.live:8080/Markliez22/xx281122xx/11266
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO COLLECTION FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO COLLECTION
 http://vipblue.live:8080/Markliez22/xx281122xx/11267
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11268
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 2
 http://vipblue.live:8080/Markliez22/xx281122xx/11269
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 3
 http://vipblue.live:8080/Markliez22/xx281122xx/11270
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 4
 http://vipblue.live:8080/Markliez22/xx281122xx/11271
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAX KINO 5
 http://vipblue.live:8080/Markliez22/xx281122xx/11272
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",**NEUERSCHEINUNGEN 24/7**
 http://vipblue.live:8080/Markliez22/xx281122xx/190591
@@ -1400,7 +1400,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/184174
 http://vipblue.live:8080/Markliez22/xx281122xx/184173
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SPORTS 24/7 UFC
 http://vipblue.live:8080/Markliez22/xx281122xx/184172
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="SPECIAL BOX DOCU",SKY SPORT 1 UHD
+#EXTINF:0 tvg-id="SkySportUno.it" group-title="SPECIAL BOX DOCU",SKY SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/11128
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",**FILME 24/7**
 http://vipblue.live:8080/Markliez22/xx281122xx/148453
@@ -1588,7 +1588,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/171229
 http://vipblue.live:8080/Markliez22/xx281122xx/135799
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MODERN FAMILIY 24/7
 http://vipblue.live:8080/Markliez22/xx281122xx/161972
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",HAWAII FIVE 0 24/7
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",HAWA2 FIVE 0 24/7
 http://vipblue.live:8080/Markliez22/xx281122xx/161975
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",COLUMBO 24/7
 http://vipblue.live:8080/Markliez22/xx281122xx/161977
@@ -1818,7 +1818,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/188401
 http://vipblue.live:8080/Markliez22/xx281122xx/188402
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",SEX AND THE CITY /724
 http://vipblue.live:8080/Markliez22/xx281122xx/188403
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",HAWAII FIVE-O 7/24
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",HAWA2 FIVE-O 7/24
 http://vipblue.live:8080/Markliez22/xx281122xx/188404
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EMERGENCY ROOM 7/24
 http://vipblue.live:8080/Markliez22/xx281122xx/188406
@@ -1828,7 +1828,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/188407
 http://vipblue.live:8080/Markliez22/xx281122xx/188408
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MAN VS. BEE 7/24
 http://vipblue.live:8080/Markliez22/xx281122xx/188409
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",NCIS HAWAII 7/24
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",NCIS HAWA2 7/24
 http://vipblue.live:8080/Markliez22/xx281122xx/188410
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",LAST MAN STANDING 7/24
 http://vipblue.live:8080/Markliez22/xx281122xx/188411
@@ -2134,7 +2134,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/161611
 http://vipblue.live:8080/Markliez22/xx281122xx/161612
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",EMMA - EINFACH MAGISCH!
 http://vipblue.live:8080/Markliez22/xx281122xx/161613
-#EXTINF:0 tvg-id="AutoMotoSport.cz" group-title="SPECIAL BOX DOCU",AUTO MOTOR SPORT
+#EXTINF:0 tvg-id="AutoMotoSport.cz" group-title="SPECIAL BOX DOCU",AUTO MOTOR UND SPORT
 http://vipblue.live:8080/Markliez22/xx281122xx/161614
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",BEAT CLUB
 http://vipblue.live:8080/Markliez22/xx281122xx/161615
@@ -2248,7 +2248,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/161672
 http://vipblue.live:8080/Markliez22/xx281122xx/161692
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",??? MUSIK ???
 http://vipblue.live:8080/Markliez22/xx281122xx/11273
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="SPECIAL BOX DOCU",MTV FHD
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="SPECIAL BOX DOCU",MTV
 http://vipblue.live:8080/Markliez22/xx281122xx/11274
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MTV NOW
 http://vipblue.live:8080/Markliez22/xx281122xx/67667
@@ -2256,31 +2256,31 @@ http://vipblue.live:8080/Markliez22/xx281122xx/67667
 http://vipblue.live:8080/Markliez22/xx281122xx/11275
 #EXTINF:0 tvg-id="mtv-dance" group-title="SPECIAL BOX DOCU",MTV DANCE
 http://vipblue.live:8080/Markliez22/xx281122xx/11277
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="SPECIAL BOX DOCU",MTV LIVE FHD
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="SPECIAL BOX DOCU",MTV LIVE
 http://vipblue.live:8080/Markliez22/xx281122xx/11276
 #EXTINF:0 tvg-id="mtv-rocks" group-title="SPECIAL BOX DOCU",MTV 90S
 http://vipblue.live:8080/Markliez22/xx281122xx/11279
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MTV 80S HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MTV 80S
 http://vipblue.live:8080/Markliez22/xx281122xx/11278
 #EXTINF:0 tvg-id="mezzo" group-title="SPECIAL BOX DOCU",MEZZO
 http://vipblue.live:8080/Markliez22/xx281122xx/11280
 #EXTINF:0 tvg-id="NRJHitsBelgique,be" group-title="SPECIAL BOX DOCU",NRJ HITS TV
 http://vipblue.live:8080/Markliez22/xx281122xx/11281
-#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="SPECIAL BOX DOCU",DELUXE MUSIC HD
+#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="SPECIAL BOX DOCU",DELUXE MUSIC
 http://vipblue.live:8080/Markliez22/xx281122xx/11282
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",FOLX MUSIC TV FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",FOLX MUSIC TV
 http://vipblue.live:8080/Markliez22/xx281122xx/11283
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",STINGRAY CLASSICA HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",STINGRAY CLASSICA
 http://vipblue.live:8080/Markliez22/xx281122xx/11284
 #EXTINF:0 tvg-id="SchlagerDeluxe.de" group-title="SPECIAL BOX DOCU",SCHLAGER DELUXE
 http://vipblue.live:8080/Markliez22/xx281122xx/11285
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",KRONE HIT TV HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",KRONE HIT TV
 http://vipblue.live:8080/Markliez22/xx281122xx/11286
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",JUKEBOX TV
 http://vipblue.live:8080/Markliez22/xx281122xx/11288
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",ONE 1 MUSIC TV HD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",ONE 1 MUSIC TV
 http://vipblue.live:8080/Markliez22/xx281122xx/11289
-#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",ZWEI 2 MUSIC TV FHD
+#EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",ZWEI 2 MUSIC TV
 http://vipblue.live:8080/Markliez22/xx281122xx/11290
 #EXTINF:0 tvg-id="ext" group-title="SPECIAL BOX DOCU",MELODIE TV NEU
 http://vipblue.live:8080/Markliez22/xx281122xx/67668
@@ -2305,7 +2305,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/148819
 http://vipblue.live:8080/Markliez22/xx281122xx/140045
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",MUSIC 24/7 ROCK
 http://vipblue.live:8080/Markliez22/xx281122xx/140046
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",MUSIC 24/7  60s 70s ROCK
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",MUSIC 24/7 60s 70s ROCK
 http://vipblue.live:8080/Markliez22/xx281122xx/196977
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",MUSIC 24/7 HIP HOP
 http://vipblue.live:8080/Markliez22/xx281122xx/140047
@@ -2345,229 +2345,229 @@ http://vipblue.live:8080/Markliez22/xx281122xx/158077
 http://vipblue.live:8080/Markliez22/xx281122xx/1308
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",??? KINDER ???
 http://vipblue.live:8080/Markliez22/xx281122xx/35663
-#EXTINF:0 tvg-id="SuperRTL.de" group-title="DE SPECIAL BOX MUSIC",SUPER RTL FHD
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="DE SPECIAL BOX MUSIC",SUPER RTL
 http://vipblue.live:8080/Markliez22/xx281122xx/35664
-#EXTINF:0 tvg-id="SuperRTL.de" group-title="DE SPECIAL BOX MUSIC",SUPER RTL HD
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="DE SPECIAL BOX MUSIC",SUPER RTL
 http://vipblue.live:8080/Markliez22/xx281122xx/35665
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TOGGO PLUS HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TOGGO PLUS
 http://vipblue.live:8080/Markliez22/xx281122xx/135779
 #EXTINF:0 tvg-id="TOGGOplus.de" group-title="DE SPECIAL BOX MUSIC",TOGGO PLUS
 http://vipblue.live:8080/Markliez22/xx281122xx/35690
-#EXTINF:0 tvg-id="Kika.de" group-title="DE SPECIAL BOX MUSIC",KIKA FHD
+#EXTINF:0 tvg-id="Kika.de" group-title="DE SPECIAL BOX MUSIC",KIKA
 http://vipblue.live:8080/Markliez22/xx281122xx/135778
-#EXTINF:0 tvg-id="Kika.de" group-title="DE SPECIAL BOX MUSIC",KIKA HD
+#EXTINF:0 tvg-id="Kika.de" group-title="DE SPECIAL BOX MUSIC",KIKA
 http://vipblue.live:8080/Markliez22/xx281122xx/35667
-#EXTINF:0 tvg-id="cartoon" group-title="DE SPECIAL BOX MUSIC",CARTOON NETWORK FHD
+#EXTINF:0 tvg-id="cartoon" group-title="DE SPECIAL BOX MUSIC",CARTOON NETWORK
 http://vipblue.live:8080/Markliez22/xx281122xx/148158
-#EXTINF:0 tvg-id="cartoon" group-title="DE SPECIAL BOX MUSIC",CARTOON NETWORK HD
+#EXTINF:0 tvg-id="cartoon" group-title="DE SPECIAL BOX MUSIC",CARTOON NETWORK
 http://vipblue.live:8080/Markliez22/xx281122xx/35673
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="DE SPECIAL BOX MUSIC",COMEDY CENTRAL FHD
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="DE SPECIAL BOX MUSIC",COMEDY CENTRAL
 http://vipblue.live:8080/Markliez22/xx281122xx/170142
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="DE SPECIAL BOX MUSIC",COMEDY CENTRAL HD
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="DE SPECIAL BOX MUSIC",COMEDY CENTRAL
 http://vipblue.live:8080/Markliez22/xx281122xx/35679
-#EXTINF:0 tvg-id="Disney.uk" group-title="DE SPECIAL BOX MUSIC",DISNEY CHANNEL FHD
+#EXTINF:0 tvg-id="Disney.uk" group-title="DE SPECIAL BOX MUSIC",DISNEY CHANNEL
 http://vipblue.live:8080/Markliez22/xx281122xx/35671
-#EXTINF:0 tvg-id="Disney.uk" group-title="DE SPECIAL BOX MUSIC",DISNEY CHANNEL HD
+#EXTINF:0 tvg-id="Disney.uk" group-title="DE SPECIAL BOX MUSIC",DISNEY CHANNEL
 http://vipblue.live:8080/Markliez22/xx281122xx/35672
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="DE SPECIAL BOX MUSIC",BOOMERANG HD
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="DE SPECIAL BOX MUSIC",BOOMERANG
 http://vipblue.live:8080/Markliez22/xx281122xx/35669
 #EXTINF:0 tvg-id="boomerang" group-title="DE SPECIAL BOX MUSIC",BOOMERANG
 http://vipblue.live:8080/Markliez22/xx281122xx/35670
-#EXTINF:0 tvg-id="NickJrHD.us" group-title="DE SPECIAL BOX MUSIC",NICK JR FHD
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="DE SPECIAL BOX MUSIC",NICK JR
 http://vipblue.live:8080/Markliez22/xx281122xx/135780
-#EXTINF:0 tvg-id="NickJrHD.us" group-title="DE SPECIAL BOX MUSIC",NICK JR HD
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="DE SPECIAL BOX MUSIC",NICK JR
 http://vipblue.live:8080/Markliez22/xx281122xx/35675
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="DE SPECIAL BOX MUSIC",NICKTOONS SD
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="DE SPECIAL BOX MUSIC",NICKTOONS
 http://vipblue.live:8080/Markliez22/xx281122xx/148159
 #EXTINF:0 tvg-id="Nicktoons.uk" group-title="DE SPECIAL BOX MUSIC",NICKTOONS
 http://vipblue.live:8080/Markliez22/xx281122xx/35677
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="DE SPECIAL BOX MUSIC",NICK FHD
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="DE SPECIAL BOX MUSIC",NICK
 http://vipblue.live:8080/Markliez22/xx281122xx/35676
 #EXTINF:0 tvg-id="baby-tv" group-title="DE SPECIAL BOX MUSIC",BABY TV
 http://vipblue.live:8080/Markliez22/xx281122xx/35668
 #EXTINF:0 tvg-id="Junior.de" group-title="DE SPECIAL BOX MUSIC",JUNIOR
 http://vipblue.live:8080/Markliez22/xx281122xx/35678
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",FIX & FOXI HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",FIX & FOXI
 http://vipblue.live:8080/Markliez22/xx281122xx/148157
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",??? WORLD SPORT ???
 http://vipblue.live:8080/Markliez22/xx281122xx/55260
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",WWE NETWORK  (USA)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",WWE NETWORK (USA)
 http://vipblue.live:8080/Markliez22/xx281122xx/55310
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS 1 FHD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS 1 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55268
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS 2 HD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS 2 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55269
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS 3 HD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS 3 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55270
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS 4 HD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS 4 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55271
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SPOR SMART 1 FHD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SPOR SMART 1 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55272
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SPOR SMART 2 FHD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SPOR SMART 2 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55273
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TIVIBUSPOR 1 FHD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TIVIBUSPOR 1 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55274
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TIVIBUSPOR 2  FHD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TIVIBUSPOR 2 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55275
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TIVIBUSPOR 3 FHD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TIVIBUSPOR 3 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55276
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",S SPORT 1 HD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",S SPORT 1 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55277
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",S SPORT 1 FHD (TR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",S SPORT 1 (TR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55278
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORT F1 FHD (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORT F1 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/55539
-#EXTINF:0 tvg-id="SkySelect2.de" group-title="DE SPECIAL BOX MUSIC",SKY SPORT 1 FHD  (DE)
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="DE SPECIAL BOX MUSIC",SKY SPORT 1 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/55261
-#EXTINF:0 tvg-id="SkySelect4.de" group-title="DE SPECIAL BOX MUSIC",SKY SPORT 2 FHD (DE)
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="DE SPECIAL BOX MUSIC",SKY SPORT 2 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/55262
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORT NEWS FHD (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORT NEWS (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/55263
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORT BUNDESLIGA 1 FHD (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORT BUNDESLIGA 1 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/55264
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORT BUNDESLIGA 2 HD (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORT BUNDESLIGA 2 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/55265
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",DAZN 1 BAR FHD (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",DAZN 1 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/55266
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",DAZN 2 BAR FHD (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",DAZN 2 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/55267
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ESPN SPORT FHD (NL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ESPN SPORT (NL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55279
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ESPN SPORT 2 FHD (NL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ESPN SPORT 2 (NL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55280
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ZIGGO SPORT SELECT FHD (NL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ZIGGO SPORT SELECT (NL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55281
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORT 1 HD (FR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORT 1 (FR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55282
 #EXTINF:0 tvg-id="beINSport2.fr" group-title="DE SPECIAL BOX MUSIC",BEIN SPORT 2 (FR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55283
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORT 3 HD (FR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORT 3 (FR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55284
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RMC SPORT 1 (FR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55285
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RMC SPORT 2 HD (FR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RMC SPORT 2 (FR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55286
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RMC SPORT 3 HD (FR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RMC SPORT 3 (FR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55287
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RMC SPORT 4 HD (FR)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RMC SPORT 4 (FR)
 http://vipblue.live:8080/Markliez22/xx281122xx/55288
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ELEVEN SPORTS 1 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ELEVEN SPORTS 1 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55290
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ELEVEN SPORTS 2 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ELEVEN SPORTS 2 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55291
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ELEVEN SPORTS 3 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ELEVEN SPORTS 3 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55292
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ELEVEN SPORTS 4 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ELEVEN SPORTS 4 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55293
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CANAL+ SPORT FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CANAL+ SPORT (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55294
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CANAL SPORT 2 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CANAL SPORT 2 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55295
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CANAL+ SPORT 3 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CANAL+ SPORT 3 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55296
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CANAL+ SPORT 4 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CANAL+ SPORT 4 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55297
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EUROSPORT 1 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EUROSPORT 1 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55298
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EUROSPORT 2 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EUROSPORT 2 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55299
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",POLSAT SPORT PREMIUM 1 HD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",POLSAT SPORT PREMIUM 1 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55300
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",POLSAT SPORT PREMIUM 2 FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",POLSAT SPORT PREMIUM 2 (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55301
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",POLSAT SPORT NEWS FHD (PL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",POLSAT SPORT NEWS (PL)
 http://vipblue.live:8080/Markliez22/xx281122xx/55302
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS HD (USA)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BEIN SPORTS (USA)
 http://vipblue.live:8080/Markliez22/xx281122xx/55303
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ESPN HD (USA)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ESPN (USA)
 http://vipblue.live:8080/Markliez22/xx281122xx/55304
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ESPN 2 HD (USA)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ESPN 2 (USA)
 http://vipblue.live:8080/Markliez22/xx281122xx/55305
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NBA TV HD (USA)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NBA TV (USA)
 http://vipblue.live:8080/Markliez22/xx281122xx/55306
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NHL NETWORK HD (USA)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NHL NETWORK (USA)
 http://vipblue.live:8080/Markliez22/xx281122xx/55307
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",FOX SPORTS 1 HD (USA)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",FOX SPORTS 1 (USA)
 http://vipblue.live:8080/Markliez22/xx281122xx/55308
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",FOX SPORTS 2 HD (USA)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",FOX SPORTS 2 (USA)
 http://vipblue.live:8080/Markliez22/xx281122xx/55309
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",UFC FIGHT PAS FHD (UK)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",UFC FIGHT PAS (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/55311
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BT SPORT 1 HD (UK)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BT SPORT 1 (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/55312
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BT SPORT 2 HD (UK)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BT SPORT 2 (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/55313
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",BT SPORT 3 (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/55314
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORTS MIX FHD (UK)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORTS MIX (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/55315
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORTS FOOTBALL HD (UK)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SKY SPORTS FOOTBALL (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/55316
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="DE SPECIAL BOX MUSIC",SKY SPORTS NEWS  FHD (UK)
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="DE SPECIAL BOX MUSIC",SKY SPORTS NEWS (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/55317
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",???? VIP SPORTS BALKAN ????
 http://vipblue.live:8080/Markliez22/xx281122xx/55318
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 1 PREMIUM HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 1 PREMIUM
 http://vipblue.live:8080/Markliez22/xx281122xx/163518
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 2 PREMIUM HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 2 PREMIUM
 http://vipblue.live:8080/Markliez22/xx281122xx/163519
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 3 PREMIUM HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 3 PREMIUM
 http://vipblue.live:8080/Markliez22/xx281122xx/163520
-#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 1 HD
+#EXTINF:0 tvg-id="ArenaSport1.hr" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/55319
-#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 2 FHD
+#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/55320
-#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 3 HD
+#EXTINF:0 tvg-id="ArenaSport3.hr" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/55321
-#EXTINF:0 tvg-id="ArenaSport4.hr" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 4 HD
+#EXTINF:0 tvg-id="ArenaSport4.hr" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/55322
-#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 5 FHD
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/55323
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 6 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 6
 http://vipblue.live:8080/Markliez22/xx281122xx/55324
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 7 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 7
 http://vipblue.live:8080/Markliez22/xx281122xx/55325
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 8 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 8
 http://vipblue.live:8080/Markliez22/xx281122xx/55326
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 9 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 9
 http://vipblue.live:8080/Markliez22/xx281122xx/55327
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 10 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: ARENA SPORT 10
 http://vipblue.live:8080/Markliez22/xx281122xx/55328
-#EXTINF:0 tvg-id="SportKlub1.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 1 FHD
+#EXTINF:0 tvg-id="SportKlub1.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 1
 http://vipblue.live:8080/Markliez22/xx281122xx/55329
-#EXTINF:0 tvg-id="SportKlub2.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 2 FHD
+#EXTINF:0 tvg-id="SportKlub2.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 2
 http://vipblue.live:8080/Markliez22/xx281122xx/55330
-#EXTINF:0 tvg-id="SportKlub3.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 3 HD
+#EXTINF:0 tvg-id="SportKlub3.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 3
 http://vipblue.live:8080/Markliez22/xx281122xx/55331
 #EXTINF:0 tvg-id="SportKlub4.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 4
 http://vipblue.live:8080/Markliez22/xx281122xx/55332
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 5
 http://vipblue.live:8080/Markliez22/xx281122xx/55333
 #EXTINF:0 tvg-id="SportKlub6.rs" group-title="DE SPECIAL BOX MUSIC",EXYU: SPORT KLUB 6
 http://vipblue.live:8080/Markliez22/xx281122xx/55334
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: EUROSPORT 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: EUROSPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/55335
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: EUROSPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: EUROSPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/55336
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: NOVA SPORT HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",EXYU: NOVA SPORT
 http://vipblue.live:8080/Markliez22/xx281122xx/55337
 #EXTINF:0 tvg-id="FightChannel.svn" group-title="DE SPECIAL BOX MUSIC",EXYU: FIGHT CHANNEL
 http://vipblue.live:8080/Markliez22/xx281122xx/55338
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/55339
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/55340
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 3 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/55341
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 4 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/55342
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ARENA SPORT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/55343
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SPORT KLUB 1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SPORT KLUB 1
 http://vipblue.live:8080/Markliez22/xx281122xx/55344
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SPORT KLUB 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SPORT KLUB 2
 http://vipblue.live:8080/Markliez22/xx281122xx/55345
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SPORT KLUB 3 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SPORT KLUB 3
 http://vipblue.live:8080/Markliez22/xx281122xx/55346
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SPORT KLUB 4
 http://vipblue.live:8080/Markliez22/xx281122xx/55347
@@ -2575,39 +2575,39 @@ http://vipblue.live:8080/Markliez22/xx281122xx/55347
 http://vipblue.live:8080/Markliez22/xx281122xx/55348
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SPORT KLUB 6
 http://vipblue.live:8080/Markliez22/xx281122xx/55349
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SK FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SK
 http://vipblue.live:8080/Markliez22/xx281122xx/55350
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: SOS KANAL
 http://vipblue.live:8080/Markliez22/xx281122xx/55351
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: HNTV HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: HN-TV
 http://vipblue.live:8080/Markliez22/xx281122xx/55352
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SRB: ZVEZDA
 http://vipblue.live:8080/Markliez22/xx281122xx/55353
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: MAX SPORT 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: MAX SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/183639
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: MAX SPORT 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: MAX SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/183640
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/55354
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/55355
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 3 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 3
 http://vipblue.live:8080/Markliez22/xx281122xx/55356
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 4
 http://vipblue.live:8080/Markliez22/xx281122xx/55357
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 5
 http://vipblue.live:8080/Markliez22/xx281122xx/55358
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 6 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: ARENA SPORT 6
 http://vipblue.live:8080/Markliez22/xx281122xx/55359
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 1
 http://vipblue.live:8080/Markliez22/xx281122xx/55360
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 2
 http://vipblue.live:8080/Markliez22/xx281122xx/55361
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 3 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 3
 http://vipblue.live:8080/Markliez22/xx281122xx/55362
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 4
 http://vipblue.live:8080/Markliez22/xx281122xx/55363
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 5
 http://vipblue.live:8080/Markliez22/xx281122xx/55364
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CR: SPORT KLUB 6
 http://vipblue.live:8080/Markliez22/xx281122xx/55365
@@ -2617,41 +2617,41 @@ http://vipblue.live:8080/Markliez22/xx281122xx/55366
 http://vipblue.live:8080/Markliez22/xx281122xx/55367
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",???? F1 FORMULA DE ????
 http://vipblue.live:8080/Markliez22/xx281122xx/133545
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="DE SPECIAL BOX MUSIC",SKY SPORT 1 UHD
+#EXTINF:0 tvg-id="SkySportUno.it" group-title="DE SPECIAL BOX MUSIC",SKY SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/133596
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 HEVC (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/133540
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 RAW (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/133547
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 FHD (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/133546
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 HD (DE)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 (DE)
 http://vipblue.live:8080/Markliez22/xx281122xx/133541
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",AT | ORF 1 RAW
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",AT | ORF 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/135490
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",AT | ORF 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",AT | ORF 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/135489
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: SRF-1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: SRF-1
 http://vipblue.live:8080/Markliez22/xx281122xx/135488
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",???? F1 FORMULA UK ????
 http://vipblue.live:8080/Markliez22/xx281122xx/133536
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 4K (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/133537
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 HD (UK)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/133543
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] SKY SPORTS F1 (UK)
 http://vipblue.live:8080/Markliez22/xx281122xx/133538
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",???? F1 FORMULA NL ????
 http://vipblue.live:8080/Markliez22/xx281122xx/133533
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] ZIGGO SPORT SELECT FHD (NL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] ZIGGO SPORT SELECT (NL)
 http://vipblue.live:8080/Markliez22/xx281122xx/133534
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] ZIGGO SPORT SELECT HD (NL)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] ZIGGO SPORT SELECT (NL)
 http://vipblue.live:8080/Markliez22/xx281122xx/133535
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",???? F1 FORMULA ES ????
 http://vipblue.live:8080/Markliez22/xx281122xx/133549
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] DAZN F1 FHD (ES)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] DAZN F1 (ES)
 http://vipblue.live:8080/Markliez22/xx281122xx/133544
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] DAZN F1 HD (ES)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",[F1] DAZN F1 (ES)
 http://vipblue.live:8080/Markliez22/xx281122xx/133548
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",???? F1 TV ????
 http://vipblue.live:8080/Markliez22/xx281122xx/133508
@@ -2669,7 +2669,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/148984
 http://vipblue.live:8080/Markliez22/xx281122xx/148962
 #EXTINF:0 tvg-id="NBA.blt" group-title="DE SPECIAL BOX MUSIC",NBA NETWORK
 http://vipblue.live:8080/Markliez22/xx281122xx/149575
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NBA PPV 1 TNT
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NBA PPV 1 WARNER
 http://vipblue.live:8080/Markliez22/xx281122xx/149796
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NBA PPV 2
 http://vipblue.live:8080/Markliez22/xx281122xx/149797
@@ -2677,11 +2677,11 @@ http://vipblue.live:8080/Markliez22/xx281122xx/149797
 http://vipblue.live:8080/Markliez22/xx281122xx/149798
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NBA PPV 4
 http://vipblue.live:8080/Markliez22/xx281122xx/149799
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TNT NBA PLAYOFFS
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",WARNER NBA PLAYOFFS
 http://vipblue.live:8080/Markliez22/xx281122xx/149802
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",US: NBA TV - 02:30 AM - NBA02 Away : Timberwolves @ Grizzlies 8:30 PM
 http://vipblue.live:8080/Markliez22/xx281122xx/149803
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",US: TNT - 04:00 AM - NBA03 Away : Pelicans @ Suns 10 PM US-TIME
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",US: WARNER - 04:00 AM - NBA03 Away : Pelicans @ Suns 10 PM US-TIME
 http://vipblue.live:8080/Markliez22/xx281122xx/149804
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",US: NBA PPV | BROOKLYN NETS
 http://vipblue.live:8080/Markliez22/xx281122xx/148963
@@ -2737,7 +2737,7 @@ http://vipblue.live:8080/Markliez22/xx281122xx/149581
 http://vipblue.live:8080/Markliez22/xx281122xx/149582
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",US: Chicago White Sox | MLB PPV
 http://vipblue.live:8080/Markliez22/xx281122xx/149583
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CA :MLB Network HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CA :MLB Network
 http://vipblue.live:8080/Markliez22/xx281122xx/149801
 #EXTINF:0 tvg-id="NBATV.ca" group-title="DE SPECIAL BOX MUSIC",NBA TV CANADA
 http://vipblue.live:8080/Markliez22/xx281122xx/149800
@@ -2745,9 +2745,9 @@ http://vipblue.live:8080/Markliez22/xx281122xx/149800
 http://vipblue.live:8080/Markliez22/xx281122xx/149000
 #EXTINF:0 tvg-id="NFLNetwork.mx" group-title="DE SPECIAL BOX MUSIC",NFL NETWORK
 http://vipblue.live:8080/Markliez22/xx281122xx/203665
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NFL REDZONE HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NFL REDZONE
 http://vipblue.live:8080/Markliez22/xx281122xx/203744
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NFL NOW HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NFL NOW
 http://vipblue.live:8080/Markliez22/xx281122xx/203745
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",NFL CHANNEL 1
 http://vipblue.live:8080/Markliez22/xx281122xx/203743
@@ -2775,257 +2775,257 @@ http://vipblue.live:8080/Markliez22/xx281122xx/204403
 http://vipblue.live:8080/Markliez22/xx281122xx/204404
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",??? NFL ALTERNATIVE SENDER ???
 http://vipblue.live:8080/Markliez22/xx281122xx/204358
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="DE SPECIAL BOX MUSIC",PRO 7 MAXX
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="DE SPECIAL BOX MUSIC",Pro Sieben MAXX
 http://vipblue.live:8080/Markliez22/xx281122xx/204359
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PT: ELEVEN SPORTS 1
 http://vipblue.live:8080/Markliez22/xx281122xx/204360
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="DE SPECIAL BOX MUSIC",UK: SKY SPORTS MAIN EVENT
 http://vipblue.live:8080/Markliez22/xx281122xx/204401
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",??? AUSTRIA ???
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",??? ???
 http://vipblue.live:8080/Markliez22/xx281122xx/191810
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 1 
 http://vipblue.live:8080/Markliez22/xx281122xx/191811
-#EXTINF:0 tvg-id="ORF1.at" group-title="DE SPECIAL BOX MUSIC",ORF 1 HD
+#EXTINF:0 tvg-id="ORF1.at" group-title="DE SPECIAL BOX MUSIC",ORF 1
 http://vipblue.live:8080/Markliez22/xx281122xx/191812
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/191813
-#EXTINF:0 tvg-id="ORF2.at" group-title="DE SPECIAL BOX MUSIC",ORF 2 HD
+#EXTINF:0 tvg-id="ORF2.at" group-title="DE SPECIAL BOX MUSIC",ORF 2
 http://vipblue.live:8080/Markliez22/xx281122xx/191814
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 3 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 3 
 http://vipblue.live:8080/Markliez22/xx281122xx/191815
-#EXTINF:0 tvg-id="ORF3.at" group-title="DE SPECIAL BOX MUSIC",ORF 3 HD
+#EXTINF:0 tvg-id="ORF3.at" group-title="DE SPECIAL BOX MUSIC",ORF 3
 http://vipblue.live:8080/Markliez22/xx281122xx/191816
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ATV HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ATV 
 http://vipblue.live:8080/Markliez22/xx281122xx/191817
-#EXTINF:0 tvg-id="ATV.am" group-title="DE SPECIAL BOX MUSIC",ATV HD
+#EXTINF:0 tvg-id="ATV.am" group-title="DE SPECIAL BOX MUSIC",ATV
 http://vipblue.live:8080/Markliez22/xx281122xx/191818
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ATV 2 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ATV II 
 http://vipblue.live:8080/Markliez22/xx281122xx/191819
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ATV 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ATV II
 http://vipblue.live:8080/Markliez22/xx281122xx/191820
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PULS 4 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PULS 4 
 http://vipblue.live:8080/Markliez22/xx281122xx/191821
-#EXTINF:0 tvg-id="Puls4.at" group-title="DE SPECIAL BOX MUSIC",PULS 4 HD
+#EXTINF:0 tvg-id="Puls4.at" group-title="DE SPECIAL BOX MUSIC",PULS 4
 http://vipblue.live:8080/Markliez22/xx281122xx/191822
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PULS 24 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PULS 24 
 http://vipblue.live:8080/Markliez22/xx281122xx/191823
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PULS 24 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PULS 24
 http://vipblue.live:8080/Markliez22/xx281122xx/191824
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SAT 1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SAT.1 
 http://vipblue.live:8080/Markliez22/xx281122xx/191825
-#EXTINF:0 tvg-id="Sat1.de" group-title="DE SPECIAL BOX MUSIC",SAT 1 HD
+#EXTINF:0 tvg-id="Sat1.de" group-title="DE SPECIAL BOX MUSIC",SAT.1
 http://vipblue.live:8080/Markliez22/xx281122xx/191826
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL AUSTRIA HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL 
 http://vipblue.live:8080/Markliez22/xx281122xx/191827
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL AUSTRIA HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL
 http://vipblue.live:8080/Markliez22/xx281122xx/191828
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PROSIEBEN AUSTRIA HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",Pro Sieben 
 http://vipblue.live:8080/Markliez22/xx281122xx/191829
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PROSIEBEN AUSTRIA HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",Pro Sieben
 http://vipblue.live:8080/Markliez22/xx281122xx/191830
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL ZWEI HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL 2 
 http://vipblue.live:8080/Markliez22/xx281122xx/191831
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL ZWEI HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL 2
 http://vipblue.live:8080/Markliez22/xx281122xx/191832
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",KABEL EINS HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",Kabel Eins 
 http://vipblue.live:8080/Markliez22/xx281122xx/191833
-#EXTINF:0 tvg-id="Kabel.de" group-title="DE SPECIAL BOX MUSIC",KABEL EINS HD
+#EXTINF:0 tvg-id="Kabel.de" group-title="DE SPECIAL BOX MUSIC",Kabel Eins
 http://vipblue.live:8080/Markliez22/xx281122xx/191834
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VOX HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VOX 
 http://vipblue.live:8080/Markliez22/xx281122xx/191835
-#EXTINF:0 tvg-id="Vox.de" group-title="DE SPECIAL BOX MUSIC",VOX HD
+#EXTINF:0 tvg-id="Vox.de" group-title="DE SPECIAL BOX MUSIC",VOX
 http://vipblue.live:8080/Markliez22/xx281122xx/191836
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SIXX HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SIXX 
 http://vipblue.live:8080/Markliez22/xx281122xx/191837
-#EXTINF:0 tvg-id="Sixx.de" group-title="DE SPECIAL BOX MUSIC",SIXX HD
+#EXTINF:0 tvg-id="Sixx.de" group-title="DE SPECIAL BOX MUSIC",SIXX
 http://vipblue.live:8080/Markliez22/xx281122xx/191838
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",PROSIEBEN MAXX HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",Pro Sieben MAXX 
 http://vipblue.live:8080/Markliez22/xx281122xx/191839
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="DE SPECIAL BOX MUSIC",PROSIEBEN MAXX HD
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="DE SPECIAL BOX MUSIC",Pro Sieben MAXX
 http://vipblue.live:8080/Markliez22/xx281122xx/191840
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SAT 1 GOLD HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SAT.1 GOLD 
 http://vipblue.live:8080/Markliez22/xx281122xx/191841
-#EXTINF:0 tvg-id="Sat1Gold.de" group-title="DE SPECIAL BOX MUSIC",SAT 1 GOLD HD
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="DE SPECIAL BOX MUSIC",SAT.1 GOLD
 http://vipblue.live:8080/Markliez22/xx281122xx/191842
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",KABEL EINS DOKU AUSTRIA HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",Kabel Eins Doku 
 http://vipblue.live:8080/Markliez22/xx281122xx/191843
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",KABEL EINS DOKU AUSTRIA HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",Kabel Eins Doku
 http://vipblue.live:8080/Markliez22/xx281122xx/191844
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL UP AUSTRIA HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTLup 
 http://vipblue.live:8080/Markliez22/xx281122xx/191845
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTL UP AUSTRIA HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",RTLup
 http://vipblue.live:8080/Markliez22/xx281122xx/191846
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SERVUS TV STERREICH HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SERVUS TV STERREICH 
 http://vipblue.live:8080/Markliez22/xx281122xx/191847
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SERVUS TV STERREICH HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SERVUS TV STERREICH
 http://vipblue.live:8080/Markliez22/xx281122xx/191848
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",OE24 TV HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",OE24 TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/191849
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",OE24 TV HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",OE24 TV
 http://vipblue.live:8080/Markliez22/xx281122xx/191850
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",W24 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",W24 
 http://vipblue.live:8080/Markliez22/xx281122xx/191851
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",W24 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",W24
 http://vipblue.live:8080/Markliez22/xx281122xx/191852
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",HITRADIO OE3 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",HITRADIO OE3 
 http://vipblue.live:8080/Markliez22/xx281122xx/191853
-#EXTINF:0 tvg-id="HitradioOE3.at" group-title="DE SPECIAL BOX MUSIC",HITRADIO OE3 HD
+#EXTINF:0 tvg-id="HitradioOE3.at" group-title="DE SPECIAL BOX MUSIC",HITRADIO OE3
 http://vipblue.live:8080/Markliez22/xx281122xx/191854
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",R9 STERREICH HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",R9 STERREICH 
 http://vipblue.live:8080/Markliez22/xx281122xx/191855
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",R9 STERREICH HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",R9 STERREICH
 http://vipblue.live:8080/Markliez22/xx281122xx/191856
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SCHAU TV HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SCHAU TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/191857
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SCHAU TV HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",SCHAU TV
 http://vipblue.live:8080/Markliez22/xx281122xx/191858
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",KRONE TV HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",KRONE TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/191859
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",KRONE TV
 http://vipblue.live:8080/Markliez22/xx281122xx/191860
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TIROL TV HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TIROL TV 
 http://vipblue.live:8080/Markliez22/xx281122xx/191861
-#EXTINF:0 tvg-id="TirolTV.at" group-title="DE SPECIAL BOX MUSIC",TIROL TV HD
+#EXTINF:0 tvg-id="TirolTV.at" group-title="DE SPECIAL BOX MUSIC",TIROL TV
 http://vipblue.live:8080/Markliez22/xx281122xx/191862
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2B HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2B
 http://vipblue.live:8080/Markliez22/xx281122xx/191863
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2K HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2K
 http://vipblue.live:8080/Markliez22/xx281122xx/191864
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2O HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2O
 http://vipblue.live:8080/Markliez22/xx281122xx/191865
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2S HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2S
 http://vipblue.live:8080/Markliez22/xx281122xx/191866
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2St HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2St
 http://vipblue.live:8080/Markliez22/xx281122xx/191867
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2T HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2T
 http://vipblue.live:8080/Markliez22/xx281122xx/191868
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2V HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",ORF 2V
 http://vipblue.live:8080/Markliez22/xx281122xx/191869
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",N24 DOKU AUSTRIA HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",N24 DOKU 
 http://vipblue.live:8080/Markliez22/xx281122xx/191870
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",N24 DOKU AUSTRIA HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",N24 DOKU
 http://vipblue.live:8080/Markliez22/xx281122xx/191871
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",DMAX HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",DMAX 
 http://vipblue.live:8080/Markliez22/xx281122xx/191872
-#EXTINF:0 tvg-id="DMAX.it" group-title="DE SPECIAL BOX MUSIC",DMAX HD
+#EXTINF:0 tvg-id="DMAX.it" group-title="DE SPECIAL BOX MUSIC",DMAX
 http://vipblue.live:8080/Markliez22/xx281122xx/191873
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TLC HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",TLC 
 http://vipblue.live:8080/Markliez22/xx281122xx/191874
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="DE SPECIAL BOX MUSIC",TLC HD
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="DE SPECIAL BOX MUSIC",TLC
 http://vipblue.live:8080/Markliez22/xx281122xx/191875
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",???? SWISS ????
 http://vipblue.live:8080/Markliez22/xx281122xx/49435
-#EXTINF:0 tvg-id="SRF1.ch" group-title="DE SPECIAL BOX MUSIC",CH: SRF 1 HD
+#EXTINF:0 tvg-id="SRF1.ch" group-title="DE SPECIAL BOX MUSIC",CH: SRF 1
 http://vipblue.live:8080/Markliez22/xx281122xx/49441
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: SRF 1
 http://vipblue.live:8080/Markliez22/xx281122xx/121177
-#EXTINF:0 tvg-id="SRF2.ch" group-title="DE SPECIAL BOX MUSIC",CH: SRF 2 HD
+#EXTINF:0 tvg-id="SRF2.ch" group-title="DE SPECIAL BOX MUSIC",CH: SRF 2
 http://vipblue.live:8080/Markliez22/xx281122xx/49442
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: SRF 2
 http://vipblue.live:8080/Markliez22/xx281122xx/121178
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: SRF INFO HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: SRF INFO
 http://vipblue.live:8080/Markliez22/xx281122xx/49440
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: SRF INFO
 http://vipblue.live:8080/Markliez22/xx281122xx/49439
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RTS UN HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RTS UN
 http://vipblue.live:8080/Markliez22/xx281122xx/49436
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RTS UN
 http://vipblue.live:8080/Markliez22/xx281122xx/49437
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RTS DEUX HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RTS DEUX
 http://vipblue.live:8080/Markliez22/xx281122xx/49438
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RTS DEUX
 http://vipblue.live:8080/Markliez22/xx281122xx/121179
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RSI LA 1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RSI LA 1
 http://vipblue.live:8080/Markliez22/xx281122xx/49443
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RSI LA 1
 http://vipblue.live:8080/Markliez22/xx281122xx/121175
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RSI LA 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RSI LA 2
 http://vipblue.live:8080/Markliez22/xx281122xx/49444
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: RSI LA 2
 http://vipblue.live:8080/Markliez22/xx281122xx/121176
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TV 24 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TV 24
 http://vipblue.live:8080/Markliez22/xx281122xx/121184
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TV 24 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TV 24
 http://vipblue.live:8080/Markliez22/xx281122xx/49445
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TV 25 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TV 25
 http://vipblue.live:8080/Markliez22/xx281122xx/49586
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: S1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: S1
 http://vipblue.live:8080/Markliez22/xx281122xx/126302
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: ROUGE TV
 http://vipblue.live:8080/Markliez22/xx281122xx/49590
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE ACTION FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE ACTION
 http://vipblue.live:8080/Markliez22/xx281122xx/49459
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE ACTION HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE ACTION
 http://vipblue.live:8080/Markliez22/xx281122xx/121180
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE PRIME FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE PRIME
 http://vipblue.live:8080/Markliez22/xx281122xx/49460
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE PRIME HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE PRIME
 http://vipblue.live:8080/Markliez22/xx281122xx/121182
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE STARS FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE STARS
 http://vipblue.live:8080/Markliez22/xx281122xx/49461
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE STARS HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE STARS
 http://vipblue.live:8080/Markliez22/xx281122xx/121181
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 3+ FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 3+
 http://vipblue.live:8080/Markliez22/xx281122xx/49446
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 4+ FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 4+
 http://vipblue.live:8080/Markliez22/xx281122xx/49447
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 5+ HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 5+
 http://vipblue.live:8080/Markliez22/xx281122xx/49448
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 6+ HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 6+
 http://vipblue.live:8080/Markliez22/xx281122xx/49449
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: M6 HD SUISSE
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: M6 SUISSE
 http://vipblue.live:8080/Markliez22/xx281122xx/49450
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 6TER HD SUISSE
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: 6TER SUISSE
 http://vipblue.live:8080/Markliez22/xx281122xx/49451
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: W9 SUISSE FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: W9 SUISSE
 http://vipblue.live:8080/Markliez22/xx281122xx/49452
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: LA TELE FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: LA TELE
 http://vipblue.live:8080/Markliez22/xx281122xx/49455
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELE TICINO HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELE TICINO
 http://vipblue.live:8080/Markliez22/xx281122xx/49456
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELE BASEL
 http://vipblue.live:8080/Markliez22/xx281122xx/49454
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELEBRN HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELEBRN
 http://vipblue.live:8080/Markliez22/xx281122xx/49589
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELE M1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELE M1
 http://vipblue.live:8080/Markliez22/xx281122xx/49465
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELE 5
 http://vipblue.live:8080/Markliez22/xx281122xx/49457
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELECLUB ZOOM HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TELECLUB ZOOM
 http://vipblue.live:8080/Markliez22/xx281122xx/49588
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TVO HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: TVO
 http://vipblue.live:8080/Markliez22/xx281122xx/49453
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: DIE NEUE ZEIT TV HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: DIE NEUE ZEIT TV
 http://vipblue.live:8080/Markliez22/xx281122xx/49463
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: STAR TV HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: STAR TV
 http://vipblue.live:8080/Markliez22/xx281122xx/49464
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE SPORT 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE SPORT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/49466
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE SPORT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE SPORT 2
 http://vipblue.live:8080/Markliez22/xx281122xx/49467
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE SPORT EVENT 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE SPORT EVENT 1
 http://vipblue.live:8080/Markliez22/xx281122xx/126300
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE ZOOM FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE ZOOM
 http://vipblue.live:8080/Markliez22/xx281122xx/49462
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE ZOOM HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: BLUE ZOOM
 http://vipblue.live:8080/Markliez22/xx281122xx/121183
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49468
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 1 HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 1 (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49469
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 2 HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 2 (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49470
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 3 HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 3 (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49471
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 4 HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 4 (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49472
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 5 HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 5 (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49473
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 6 HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 6 (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49474
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 7 HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 7 (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49475
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 8 HD (En Francais)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: VIP MYSPORTS 8 (En Francais)
 http://vipblue.live:8080/Markliez22/xx281122xx/49476
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",CH: Kabel 1
 http://vipblue.live:8080/Markliez22/xx281122xx/49591
@@ -3085,41 +3085,41 @@ http://vipblue.live:8080/Markliez22/xx281122xx/140096
 http://vipblue.live:8080/Markliez22/xx281122xx/140097
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",??? VIP SPORTS VIAPLAY ???
 http://vipblue.live:8080/Markliez22/xx281122xx/127845
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY 1 F1 HEVC
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY 1 F1 
 http://vipblue.live:8080/Markliez22/xx281122xx/195465
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY 1 F1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY 1 F1
 http://vipblue.live:8080/Markliez22/xx281122xx/195466
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY 2 F1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY 2 F1
 http://vipblue.live:8080/Markliez22/xx281122xx/195467
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY F1 PITLANE HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY F1 PITLANE
 http://vipblue.live:8080/Markliez22/xx281122xx/195468
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY F1 TIMING HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY F1 TIMING
 http://vipblue.live:8080/Markliez22/xx281122xx/195469
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY F1 TRACK POSITIONING HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY F1 TRACK POSITIONING
 http://vipblue.live:8080/Markliez22/xx281122xx/195470
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY FORMULE 1 FHD ( BACKUP 1 )
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY FORMULE 1 ( BACKUP 1 )
 http://vipblue.live:8080/Markliez22/xx281122xx/195471
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY FORMULE 1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY FORMULE 1
 http://vipblue.live:8080/Markliez22/xx281122xx/195472
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY FORMULE 1 HERHALING FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY FORMULE 1 HERHALING
 http://vipblue.live:8080/Markliez22/xx281122xx/195473
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY DARTS HD (BACKUP 1)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY DARTS (BACKUP 1)
 http://vipblue.live:8080/Markliez22/xx281122xx/195474
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY DARTS HD (BACKUP 2)
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY DARTS (BACKUP 2)
 http://vipblue.live:8080/Markliez22/xx281122xx/195475
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY PDC DARTS 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY PDC DARTS 1
 http://vipblue.live:8080/Markliez22/xx281122xx/195476
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY PDC DARTS HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY PDC DARTS
 http://vipblue.live:8080/Markliez22/xx281122xx/195477
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY PDC DARTS 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY PDC DARTS 2
 http://vipblue.live:8080/Markliez22/xx281122xx/195478
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY VOETBAL 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY VOETBAL 1
 http://vipblue.live:8080/Markliez22/xx281122xx/195479
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY VOETBAL 1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY VOETBAL 1
 http://vipblue.live:8080/Markliez22/xx281122xx/195480
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY VOETBAL 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY VOETBAL 2
 http://vipblue.live:8080/Markliez22/xx281122xx/195481
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY VOETBAL 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY VOETBAL 2
 http://vipblue.live:8080/Markliez22/xx281122xx/195482
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY PREMIER LEAGUE
 http://vipblue.live:8080/Markliez22/xx281122xx/195483
@@ -3149,9 +3149,9 @@ http://vipblue.live:8080/Markliez22/xx281122xx/195494
 http://vipblue.live:8080/Markliez22/xx281122xx/195495
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY 2
 http://vipblue.live:8080/Markliez22/xx281122xx/195496
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY XTRA ZIGGO FHD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY XTRA ZIGGO
 http://vipblue.live:8080/Markliez22/xx281122xx/195498
-#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY XTRA ZIGGO HD
+#EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY XTRA ZIGGO
 http://vipblue.live:8080/Markliez22/xx281122xx/195499
 #EXTINF:0 tvg-id="ext" group-title="DE SPECIAL BOX MUSIC",VIAPLAY XTRA BACKUP
 http://vipblue.live:8080/Markliez22/xx281122xx/195500
