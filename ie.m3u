@@ -1,0 +1,342 @@
+#EXTM3U
+#EXTINF:0,13th Street HD [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://e5214fbee923eea9dbf94b3ec7277f51cf74ee70/
+#EXTINF:0,3sat HD [DE]
+acestream://d52b8a34de386a2371de539afb31495e78cc5304/
+#EXTINF:0,ATV [DE]
+acestream://7d50d90895f44e97039eca21ae6bc17172acc9ef/
+#EXTINF:0,AXN HD [DE]
+acestream://f835867c82063fc133d84cf37e89e6545e6e3ad4/
+#EXTINF:0,Anixe HD [DE]
+acestream://8638ff6c4b98625233842d362ad43eea1e7bbacb/
+#EXTINF:0,arte HD [DE]
+acestream://101c4c7e056242758b112382c4e314472795ae37/
+#EXTINF:0,BILD HD [DE]
+acestream://598900f86da2a7b2f9b17972b2070e8de4bf4e19/
+#EXTINF:0,BR Fernsehen HD [DE]
+acestream://55b69cac18cbeb14c00705d06bc3396f7f6b7070/
+#EXTINF:0,Baden TV
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://37afbf9fffad4dd5e7317ac95b984978e217eae7/
+#EXTINF:0,Baden TV
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://c5e2fece0ad8b2a97af2d1e33f5ab9970a136f08/
+#EXTINF:0,Boomerang [DE]
+acestream://0011f12a7bfa97f90bd1eab99631f0d492e5f94b/
+#EXTINF:0,Cartoon Network [DE]
+acestream://2c4fd2b35d296135d8c52ee9eaa6ab5beae405b5/
+#EXTINF:0,Crime + Investigation [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://3e42a89d66c2afff75ca7641a52f92a61e5f5250/
+#EXTINF:0,DAZN 1 Bar HD [DE]
+acestream://897e73c9d578848f596585314ecb9ae067c0e229/
+#EXTINF:0,DAZN 2 Bar HD [DE]
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865/
+#EXTINF:0,DELUXE MUSIC HD [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://da8c0764bea30d7fe2321383292bb33ff04a5ede/
+#EXTINF:0,DISCOVERY CHANNEL [DE]
+acestream://f40d450991da3daa22b7a5007603a139def6d951/
+#EXTINF:0,DMAX HD [DE]
+acestream://ff3ec08b3af26c5c545c45e82cda6f4382780512/
+#EXTINF:0,DW Deutsch+ (1080p) [Geo-blocked]
+acestream://84d0516a0ffef6d5464d173b51b4520752fe2841/
+#EXTINF:0,DW [DE]
+acestream://bdb06fe436863d9c2dcb90baa3d1b960b0152eaa/
+#EXTINF:0,Das Erste HD [DE]
+acestream://c33404e81c7499e9c962e8a672c6cb4d534e431c/
+#EXTINF:0,Disney HD [DE]
+acestream://ba06199060bece6beb9abba7007d4fd7844342e2/
+#EXTINF:0,Dresden Fernsehen
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://3218308e7ab9e698271b918c86e4bb66833f8e36/
+#EXTINF:0,E! [DE]
+acestream://70cd3b5f96fb8d415099263226309aab3c616459/
+#EXTINF:0,Euronews Deutsch (720p)
+acestream://34be31cff528831bbbe5818835c9919d6cf48219/
+#EXTINF:0,Eurosport 2 HD [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6/
+#EXTINF:0,Eurosport360 HD 1 [DE]
+acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c/
+#EXTINF:0,Eurosport360 HD 2 [DE]
+acestream://57f95543ac41656d473b1a27123fc413388a728c/
+#EXTINF:0,Eurosport360 HD 3 [DE]
+acestream://7adbca42657ace1fe228142d351d0896974bbe0c/
+#EXTINF:0,Eurosport360 HD 4 [DE]
+acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64/
+#EXTINF:0,Eurosport360 HD 6 [DE]
+acestream://005ac522315699bd93bbf743329eb2f3c347dc3f/
+#EXTINF:0,Eurosport360 HD 7 [DE]
+acestream://b18657f64507cc859cd7edef1aef90feb053e791/
+#EXTINF:0,Eurosport360 HD 8 [DE]
+acestream://8f4f572005ca2557743474087aa622693ba9b5fe/
+#EXTINF:0,Eurosport360 HD 9 [DE]
+acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47/
+#EXTINF:0,HGTV [DE]
+acestream://a9b9a780684a361339c14b43c58cb1c511dc4d9e/
+#EXTINF:0,HISTORY HD [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://1f187d3fe31f3203cc6b5e4f5b4e423bb8c96ccb/
+#EXTINF:0,HR HD [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://8385abc4f836cc502de197789426ba1d7eba089b/
+#EXTINF:0,HSE24 [DE]
+acestream://82500d4980c5de415ac20bc3fccc74435108f312/
+#EXTINF:0,Heimatkanal [DE]
+acestream://062258a94106b737b3f938ac1c53e193d674b0c3/
+#EXTINF:0,JUKEBOX [DE]
+acestream://b4b6a6a7d42a995fd6d3a3ac576f5987016954f3/
+#EXTINF:0,KABEL EINS CLASSICS [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://5cc17edcbf6ada7b83c3be3e146a7738a8f44b42/
+#EXTINF:0,KABEL EINS DOKU [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://a6ec87fb4e5373035603be4ddebe1733df35d840/
+#EXTINF:0,KIKA HD [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://a9bcce53543a2574e3b3d2869e52d61b0dc1944b/
+#EXTINF:0,KINOWELT TV [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://80d1cd89eab70d595ef742db18752bb1dd44c80d/
+#EXTINF:0,Kabel Eins HD [DE]
+acestream://289cefc556796bf721502f331804ea775b779153/
+#EXTINF:0,Light Channel
+acestream://ed7bdbf3064d26d9013b6b7510d9cfb257420c47/
+#EXTINF:0,MDR HD [DE]
+acestream://0e8dc460b1f03ff33ab4ad004ddc666f237ecbe3/
+#EXTINF:0,Magenta Sport 1 HD [DE]
+acestream://501141c649a2b78c4965cbf3257224181cc55072/
+#EXTINF:0,Magenta Sport 10 HD [DE]
+acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29/
+#EXTINF:0,Magenta Sport 11 HD [DE]
+acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6/
+#EXTINF:0,Magenta Sport 2 HD [DE]
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab/
+#EXTINF:0,Magenta Sport 3 HD [DE]
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8/
+#EXTINF:0,Magenta Sport 4 HD [DE]
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849/
+#EXTINF:0,Magenta Sport 5 HD [DE]
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730/
+#EXTINF:0,Magenta Sport 6 HD [DE]
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8/
+#EXTINF:0,Magenta Sport 7 HD [DE]
+acestream://ac839cda9709255c21a98af455731f037e77a9e4/
+#EXTINF:0,Magenta Sport 8 HD [DE]
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175/
+#EXTINF:0,Magenta Sport 9 HD [DE]
+acestream://86495fe134ff065d5217497babe6be33f81d37d1/
+#EXTINF:0,Motorvision TV [DE]
+acestream://acd7e3ae185a376e6596e60a414bebbf3321b37f/
+#EXTINF:0,n-tv HD [DE]
+acestream://b69ee17ee716edaabd5dd32934c71be4d23736a8/
+#EXTINF:0,N24 DOKU [DE]
+acestream://fe26522084777de964511c79dbf87c2d8383403c/
+#EXTINF:0,NDR HD [DE]
+acestream://bb98d9459ee9234482f3f445028965fd43656e7f/
+#EXTINF:0,NITRO [DE]
+acestream://089f1b59317a99c1ce10259c4897714028752ae7/
+#EXTINF:0,Nat Geo Wild [DE]
+acestream://394354a04edd738876b8b2ecab15d4765d33b37f/
+#EXTINF:0,Nat Geographic HD [DE]
+acestream://45f110711ddffc71167cb09c8c7992689694f5d6/
+#EXTINF:0,Nick Jr. [DE]
+acestream://f4a0f154bced3325981b2453bb2456ad24e9ed40/
+#EXTINF:0,NickToons [DE]
+acestream://8930a64ed631e26e335fc85b546f04ac678f38bf/
+#EXTINF:0,Nickelodeon
+acestream://bb79874efbc7993d6f07258f0cdabdf28ce62312/
+#EXTINF:0,Nickelodeon Australia (576p)
+acestream://dfe9663a49a0ee4e9a8fc8323116002b47858e7c/
+#EXTINF:0,noa4 Norderstedt HD
+acestream://d5bd790925df1fe01177f540d37a15ae9c620446/
+#EXTINF:0,OK Dessau (1080p) [Not 24/7]
+acestream://c41955480f7c0f27da2c31878bb61e4ab1356fd9/
+#EXTINF:0,OK Magdeburg (1080p)
+acestream://fa1800c6b2633714fd1bb62b8903b81f75d9992b/
+#EXTINF:0,OK Salzwedel (1080p) [Not 24/7]
+acestream://4732cf3530d038eb5f044634649070bb9b34f6e7/
+#EXTINF:0,OK Wernigerode (1080p)
+acestream://6d2764f54a72b03cf1228a63c4af49f41e8bb8fe/
+#EXTINF:0,ORF 1 HD [DE]
+acestream://c9d6412050226de0968cea19a383b50dc1966363/
+#EXTINF:0,ORF 2 HD [DE]
+acestream://f5d3ea421c4c067b5c90161a8ae4d93482fb9edd/
+#EXTINF:0,ORF III [DE]
+acestream://41ac7892b8fde95d5110d83d7324044145c7f86a/
+#EXTINF:0,ORF SPORT+ HD [DE]
+acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974/
+#EXTINF:0,One [DE]
+acestream://aefc08723a06f1be68a1588ba9b8d9e69b2352ca/
+#EXTINF:0,ProSieben HD [DE]
+acestream://0f40f5793250117fbc0dc7a824cdcd531a8de41c/
+#EXTINF:0,ProSieben Maxx HD [DE]
+acestream://40d73c46051360ce2ba7b329725440dc74d485f2/
+#EXTINF:0,RTL 2 HD [DE]
+acestream://ece97e99e4272351c3656922509b138c760858de/
+#EXTINF:0,RTL Crime [DE]
+acestream://ce203f49c4daacdf27df5825beeea4613c0404fa/
+#EXTINF:0,RTL HD [DE]
+acestream://bc9610c2cb92a71a5c17f357d66719fa1c054ced/
+#EXTINF:0,RTL Living [DE]
+acestream://2b5eeabe7f7495f83608b15686cc83765e2dcc38/
+#EXTINF:0,RTL Passion [DE]
+acestream://34c1fa7c1f94f22c9afc0bb79e563bbb4f87a450/
+#EXTINF:0,RTL UP [DE]
+acestream://e22dbfca8357e8026d2a273c610f14c2645e955a/
+#EXTINF:0,RTL+ SPORT EVENT 1 [DE]
+acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3/
+#EXTINF:0,RTL+ SPORT EVENT 10 [DE]
+acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e/
+#EXTINF:0,RTL+ SPORT EVENT 2 [DE]
+acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466/
+#EXTINF:0,RTL+ SPORT EVENT 3 [DE]
+acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b/
+#EXTINF:0,RTL+ SPORT EVENT 4 [DE]
+acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6/
+#EXTINF:0,RTL+ SPORT EVENT 5 [DE]
+acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5/
+#EXTINF:0,RTL+ SPORT EVENT 6 [DE]
+acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30/
+#EXTINF:0,RTL+ SPORT EVENT 7 [DE]
+acestream://eec3f8107e008cec3679f76e078deeefd1348a3e/
+#EXTINF:0,RTL+ SPORT EVENT 8 [DE]
+acestream://ce4ae0c3491acd4272340029139ba25642e2516b/
+#EXTINF:0,RTL+ SPORT EVENT 9 [DE]
+acestream://a435581e6cba56972e48cf4519d1b2af735eec2f/
+#EXTINF:0,Romance TV [DE]
+acestream://ef3fd5fc5d6d15b2875fc5c3204710dd848ffcc6/
+#EXTINF:0,SAT1 GOLD [DE]
+acestream://80db6eb9c3c0da5ddf03e2912e502a1ff8927f8b/
+#EXTINF:0,SIXX HD [DE]
+acestream://80ccf9375ef9b8a71d77d21e3bfca7a794eca1fb/
+#EXTINF:0,SKY Bundesliga UHD [DE]
+acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390/
+#EXTINF:0,SKY Cinema Fun [DE]
+acestream://0fb6a11801d18e703fdb16fcdb96f5ad56d13b4f/
+#EXTINF:0,SPORT1 [DE]
+acestream://1950633a3723cb52b17c764125decc04445bd5ff/
+#EXTINF:0,SPORT1+ [DE]
+acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b/
+#EXTINF:0,SWR Fernsehen RP HD [DE]
+acestream://ba1aeed7c013ad626d6791a1fff928a4223cb266/
+#EXTINF:0,Sat.1 HD [DE]
+acestream://58616a92d5b871848dd6e66321da89062140c024/
+#EXTINF:0,Sat1 Emotions [DE]
+acestream://93fa4963d0f2bdfec1f7a7e5be6333f0d2716b97/
+#EXTINF:0,Servus TV [DE]
+acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115/
+#EXTINF:0,Sky 1 [DE]
+acestream://88c50cf8bf78a18d89c9efb3805d5a12e04c31b9/
+#EXTINF:0,Sky Atlantic HD [DE]
+acestream://02458900124e0b55dabfa346f4397e0296b4facd/
+#EXTINF:0,Sky Bundesliga 1 HD [DE]
+acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b/
+#EXTINF:0,Sky Cinema Action HD [DE]
+acestream://8f3b3a4b42b8ad785eab4c426d0ce7bb891f4398/
+#EXTINF:0,Sky Cinema Best Of HD [DE]
+acestream://378dd98fc90117c7c8427553bb8cb018b4e41023/
+#EXTINF:0,Sky Cinema Classics [DE]
+acestream://38ae2c654cc4727c33e6fbab63850edef4f7e636/
+#EXTINF:0,Sky Cinema Family [DE]
+acestream://e0fa0d9e3345ba8e88758b53bb6d6cdc157e073d/
+#EXTINF:0,Sky Cinema Premieren +24 HD [DE]
+acestream://e2831ab7067255744451508699cd3820bc3af59e/
+#EXTINF:0,Sky Cinema Premieren HD [DE]
+acestream://3306fb30138814e54a46cd8dc1ef1c864e8b3b53/
+#EXTINF:0,Sky Cinema Special HD [DE]
+acestream://dd70fe2057d698d528f627c578733814b74557c5/
+#EXTINF:0,Sky Cinema Triller HD [DE]
+acestream://73b1ccfff0de53e2221c8ab9fe8206114f36f8ef/
+#EXTINF:0,Sky Comedy [DE]
+acestream://23ed6019f7542ca584e785ab835ae510fd7524b2/
+#EXTINF:0,Sky Crime HD [DE]
+acestream://4f9e3ee8fdba697aefe9be9e2238f229ba9f4db3/
+#EXTINF:0,Sky Documentaries HD [DE]
+acestream://b7f02e90a06047dff0a8470db1327a9c43f715aa/
+#EXTINF:0,Sky Krimi HD [DE]
+acestream://a1724b063c0c7dcf32803dbd3a545dc3ee0b9289/
+#EXTINF:0,Sky Nature HD [DE]
+acestream://4753b8da0e2bf2cc7983d738358d26f001e23297/
+#EXTINF:0,Sky Replay [DE]
+acestream://4ae012c5af256b2868dea7f921a1a9319e5e465c/
+#EXTINF:0,Sky Select 1 HD [DE]
+acestream://1aece88a30f6e32a7bb7c3df80a6568a410205b6/
+#EXTINF:0,Sky Select 2 HD [DE]
+acestream://8df8feb6d860160974e5552353b995b3aa575eac/
+#EXTINF:0,Sky Select 3 HD [DE]
+acestream://f024536ef87999aaf1762b1a681eb3806cb6765f/
+#EXTINF:0,Sky Select 4 HD [DE]
+acestream://9e158a7394ab7866dbb27878954a0913df700754/
+#EXTINF:0,Sky Select 5 HD [DE]
+acestream://78864d2fd83dbcbf8821c7215de59431e050d75e/
+#EXTINF:0,Sky Select 6 HD [DE]
+acestream://8654695321f45511646a39669d5f9c928c40107c/
+#EXTINF:0,Sky Select 7 HD [DE]
+acestream://67f200de0fb8f4a339d4d0c7a40ab408e9e5cd9f/
+#EXTINF:0,Sky Select 8 HD [DE]
+acestream://c33eae8a0e33d9e2dacc2ca3e96524eb0f67d23f/
+#EXTINF:0,Sky Sport 1 HD [DE]
+acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d/
+#EXTINF:0,Sky Sport 2 HD [DE]
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69/
+#EXTINF:0,Sky Sport F1 [DE]
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076/
+#EXTINF:0,Sky Sport News [DE]
+acestream://07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8/
+#EXTINF:0,Sky Sport UHD [DE]
+acestream://96f3385d7bd5420ffad7d54ecae5cab2b9da25c3/
+#EXTINF:0,Spiegel Geschichte HD [DE]
+acestream://74612cfcc8fedbb06381deaf79edbcee971cadd3/
+#EXTINF:0,Sport Digital [DE]
+acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7/
+#EXTINF:0,Super RTL HD [DE]
+acestream://f4529e3b6c56d925c52172202170bd6558674606/
+#EXTINF:0,Syfy HD [DE]
+acestream://46d79efe06df3307fec2ed5e760128619119eb11/
+#EXTINF:0,TLC [DE]
+acestream://c6eaef7628f5837e2b4e34d0d0e3a50510967c90/
+#EXTINF:0,TOGGO PLUS [DE]
+acestream://96efcc0185c54003ef34c915f6896b92fee9f07a/
+#EXTINF:0,Universal TV HD [DE]
+acestream://7f8a688bbe9367c1ecbe733116a6aefb1bd22bb6/
+#EXTINF:0,VIVA/Comedy [DE]
+acestream://0c4264b1fdd37437a16ec96f0fa6579e8dccf369/
+#EXTINF:0,VOX HD [DE]
+acestream://85abb9490b27b56d5ceb3c554a47ccb3af60ceb6/
+#EXTINF:0,VOXup [DE]
+acestream://edb7eea337e2b6d6aee8838a3936a7451dfaccfd/
+#EXTINF:0,WDR HD Aachen [DE]
+acestream://eba141d913e4a32251b490273c9cfc48d76e1802/
+#EXTINF:0,WELT [DE]
+acestream://e16d2e6743d96f34350711f10780080a002ed63e/
+#EXTINF:0,Waldwerk [DE]
+acestream://0f9a44fbf18f7f50006d8348d6e2f0194f104a51/
+#EXTINF:0,Warner TV Comedy [DE]
+acestream://bc7f0ab4e6dc638ac1e91e9004ad8957462d3b46/
+#EXTINF:0,Warner TV Film [DE]
+acestream://9bad87acde411667363c9a5708077a76c578a6de/
+#EXTINF:0,Warner TV Serie [DE]
+acestream://6f8beb8b4f5e4b9166b6208a6b0a2faa12085555/
+#EXTINF:0,ZDF HD [DE]
+acestream://c71fb593810ce837545e8d8b384e50a42c35a316/
+#EXTINF:0,ZDF INFO [DE]
+acestream://fcfb2b67793235ff4ff265f541a34a237a01d299/
+#EXTINF:0,ZDF NEO [DE]
+acestream://b39c136256356dd88f812114587f0ed3b7846e7f/
+
