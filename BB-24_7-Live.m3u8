@@ -1,3 +1,5 @@
 #EXTM3U8
 #EXTINF:-1 tvg-logo="" group-title="EU | GERMANY HD", DE| BigBrother HD
-http://atown.mooo.com:8888/Falcon/864060
+http://atown.mooo.com:8888/Falcon/
+#EXTINF:-1 tvg-logo="" group-title="EU | GERMANY HD", DE| BigBrother HD 
+http://atown.mooo.com:8888/best/517155
