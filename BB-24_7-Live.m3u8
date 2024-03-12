@@ -1,5 +1,7 @@
 #EXTM3U8
-#EXTINF:-1 tvg-logo="" group-title="EU | GERMANY HD", DE| BigBrother HD
-http://atown.mooo.com:8888/Falcon/864060
-#EXTINF:-1 tvg-logo="" group-title="EU | GERMANY HD", DE| BigBrother HD 
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/big-brother-1.svg" group-title="EU | GERMANY HD", DE| BigBrother HD
 http://atown.mooo.com:8888/best/517155
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBIr9IiCJe43vFVcLtoYuTuRqifiZq2UrSfZR7Hi5UQ&s" group-title="EU | GERMANY HD", DE| BigBrother HD
+http://atown.mooo.com:8888/Falcon/864060
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kLzy30xOTpq0vlw9pGTgVu8We00ugtTsnbzC2F4g6gSe6T3kwlUg8Okr1Xc6v-EUWw=w240-h480-rw" group-title="EU | GERMANY HD", DE| BigBrother HD
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710227354/ei/OqvvZf2kC_3Ri9oPu6qUoAU/ip/2a02:3100:145f:7a00:dcaf:ebe1:3ea4:4e39/id/V1BduBjhWpI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr6---sn-uxax4vopj5qx-cxge.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9f00YvMJy4DTBXhOKgv4irdf6y1F5beqqp6uyrxELHQtsAIrouqKI3WStHW4/vprv/1/playlist_type/DVR/initcwndbps/1426250/mh/7R/mm/44/mn/sn-uxax4vopj5qx-cxge/ms/lva/mv/m/mvi/6/pl/39/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1710205463/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKr6MX3Im3HfK3dE5K7OWeqlR82pvV0GorGsZifPBzvUAiBDeKxapcn5_KEGiUApRRRsjO2axIb239UUVNCq8Qy_eg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIhAIEaUYUMbri5AJtETAx3meEIdWLXqbBzmnASF8qvY1aQAiBlGsrvBFI8lNBuSeFaEdnDKRPfTPdUJfveTaC9-HYp1w%3D%3D/playlist/index.m3u8
