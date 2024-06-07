@@ -1,0 +1,7 @@
+#EXTM3U8 url-tvg="https://vav00.de/sources/epg/epg_de.xml"
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="DE ⋅ DEUTSCHE HD",Big Brother Live 24/7
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AD:1A:03&stream=816699&extension=ts&play_token=ceAz7CsrW9
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="DE ⋅ DEUTSCHE HD",Big Brother Live 24/7
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AF:F9:00&stream=816699&extension=ts&play_token=8CheYoBGBK
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="DE ⋅ DEUTSCHE HD",Big Brother Live 24/7
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:3D:44&stream=816699&extension=ts&play_token=l9oLZSOypg
