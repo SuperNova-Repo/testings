@@ -1,7 +1,19 @@
 #EXTM3U8 url-tvg="https://vav00.de/sources/epg/epg_de.xml"
-#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="DE ⋅ DEUTSCHE HD",Big Brother Live 24/7
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AD:1A:03&stream=816699&extension=ts&play_token=ceAz7CsrW9
-#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="DE ⋅ DEUTSCHE HD",Big Brother Live 24/7
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AF:F9:00&stream=816699&extension=ts&play_token=8CheYoBGBK
-#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="DE ⋅ DEUTSCHE HD",Big Brother Live 24/7
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:3D:44&stream=816699&extension=ts&play_token=l9oLZSOypg
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AB:56:66&stream=846292&extension=ts&play_token=UoFrAvXH1z
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:E3:14&stream=846292&extension=ts&play_token=UoFrAvXH1z
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:DE:93&stream=846292&extension=ts&play_token=UoFrAvXH1z
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:3D:44&stream=846292&extension=ts&play_token=UoFrAvXH1z
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:07:BB:FD&stream=846292&extension=ts&play_token=ceAz7CsrW9
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:0E:3A:A0&stream=846292&extension=ts&play_token=8CheYoBGBK
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:3D:44&stream=846292&extension=ts&play_token=UoFrAvXH1z
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:5E:48:01&stream=846292&extension=ts&play_token=UoFrAvXH1z
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="http://a-panel.online:80/images/21e1ffec2e9c3a45287d71e483cf2d9f.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:08:EB:F7&stream=846292&extension=ts&play_token=UoFrAvXH1z
