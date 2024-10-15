@@ -1,4 +1,4 @@
-#EXTM3U8 url-tvg="https://vav00.de/sources/epg/epg_de.xml"
+#EXTM3U8 url-tvg="https://vav00.de/sources/epg_de.xml"
 #EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="https://321.trafgo.cc/Icon-DE/bigbrother.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AB:56:66&stream=846292&extension=ts&play_token=UoFrAvXH1z
 #EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="https://321.trafgo.cc/Icon-DE/bigbrother.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
