@@ -1,27 +1,27 @@
 #EXTM3U8
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.01
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:B9:D6:DF&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.02
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:A3:B7:87&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.03
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:A3:B7:8C&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.04
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:A3:B7:90&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.05
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:A3:B8:AE&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.06
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:A3:B8:CC&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.07
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:BA:2D:1C&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.08
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:BA:2F:FC&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.09
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:FA:E4:F6&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.10
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:BA:3B:7F&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.11
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:5D:8A:89&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.12
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:5D:8A:8F&stream=756398&extension=ts&play_token=SPncQGoQZS
-#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events.13
+#EXTINF:-1 tvg-id="" tvg-name="Bild+ Events" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fa79d30215bf9238eb2b04ab8b1a8e05.png" group-title="Germany",Bild+ Events
 http://elmohtrfsatiptv.com:8000/live/GuaBL78BRXf7/qsMwnkQcsr8C/119537.ts
