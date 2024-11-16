@@ -24,4 +24,11 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:BA:3B:7F&stream=883622&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:5D:8A:89&stream=883622&extension=ts&play_token=SMcZMRAcUQ
 #EXTINF:-1 tvg-id="" tvg-name"=NETFLIX LIVE EVENT" tvg-logo="https://i.ytimg.com/vi/-VLCOThWl2g/hq720.jpg" group-title="BOXING: MIKE TYSON VS JAKE PAUL",Jake Paul vs. Mike Tyson
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:5D:8A:8F&stream=883622&extension=ts&play_token=SMcZMRAcUQ
-
+#EXTINF:-1 tvg-id="" tvg-name"=NETFLIX LIVE EVENT" tvg-logo="https://i.ytimg.com/vi/-VLCOThWl2g/hq720.jpg" group-title="BOXING: MIKE TYSON VS JAKE PAUL",Jake Paul vs. Mike Tyson
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:5D:8B:2A&stream=883622&extension=ts&play_token=SMcZMRAcUQ
+#EXTINF:-1 tvg-id="" tvg-name"=NETFLIX LIVE EVENT" tvg-logo="https://i.ytimg.com/vi/-VLCOThWl2g/hq720.jpg" group-title="BOXING: MIKE TYSON VS JAKE PAUL",Jake Paul vs. Mike Tyson
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:5D:8B:D4&stream=883622&extension=ts&play_token=SMcZMRAcUQ00
+#EXTINF:-1 tvg-id="" tvg-name"=NETFLIX LIVE EVENT" tvg-logo="https://i.ytimg.com/vi/-VLCOThWl2g/hq720.jpg" group-title="BOXING: MIKE TYSON VS JAKE PAUL",Jake Paul vs. Mike Tyson
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:5D:8F:7C&stream=883622&extension=ts&play_token=SMcZMRAcU
+#EXTINF:-1 tvg-id="" tvg-name"=NETFLIX LIVE EVENT" tvg-logo="https://i.ytimg.com/vi/-VLCOThWl2g/hq720.jpg" group-title="BOXING: MIKE TYSON VS JAKE PAUL",Jake Paul vs. Mike Tyson
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:BA:60:D0&stream=883622&extension=ts&play_token=SMcZMRAcU
