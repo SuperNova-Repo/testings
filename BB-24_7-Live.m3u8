@@ -1,5 +1,5 @@
 #EXTM3U8 url-tvg="https://vav00.de/sources/epg_de.xml"
-#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="https://321.trafgo.cc/Icon-DE/bigbrother.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="https://321.trafgo.cc/Icon-DE/bigbrother.png" group-title="BB 24/7 LiveStream",BigBrother
 http://focus.viptveu.com:8080/play/live.php?mac=A0:BB:3E:16:30:E1&stream=623656&extension=ts&play_token=yHQDcRvdpi
-#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="https://321.trafgo.cc/Icon-DE/bigbrother.png" group-title="19. Promi BB 24/7 LiveStream",Big Brother
+#EXTINF:0 tvg-id="" tvg-name="BigBrotherLive24/7Full" tvg-logo="https://321.trafgo.cc/Icon-DE/bigbrother.png" group-title="BB 24/7 LiveStream",BigBrother
 https://fan.golomi.online:30443/edge/verca28e6a8229371f56866113070e412fd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjUgODo1OTo0NSBQTSZoYXNoX3ZhbHVlPXFtSkozUlIrWkt5c2dZMkNMUEx3ckE9PSZ2YWxpZG1pbnV0ZXM9MTIw
