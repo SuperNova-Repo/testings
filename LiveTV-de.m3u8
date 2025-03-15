@@ -1,0 +1,101 @@
+#EXTM3U8 url-tvg="https://vav00.de/sources/epg/epg_de.xml"
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ARD
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ZDF
+https://strm.hdtvizlecanli.com/live/zdf.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Pro7
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",VOX
+https://strm.hdtvizlecanli.com/live/vox.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Sat.1
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",RTL II
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Kabel1
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Pro7maxx
+https://strm.hdtvizlecanli.com/live/pro7max.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",DMAX
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Comedy Central
+https://strm.hdtvizlecanli.com/live/comedy.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",sixx
+https://strm.hdtvizlecanli.com/live/six.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",TLC
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Tele5
+https://strm.hdtvizlecanli.com/live/
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",RTL Nitro
+https://strm.hdtvizlecanli.com/live/nitro.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Sat.1 Gold
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Kabel1 Doku
+https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ZDFinfokanal
+https://strm.hdtvizlecanli.com/live/zdfinfo.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ZDFneo
+https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ONE
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ARDalpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Welt der Wunder
+https://stream.hdtvizlecanli.com/welt.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ATV
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ORF1
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ORF2
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",ServusTV
+https://strm.hdtvizlecanli.com/live/servus.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",N-TV
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",N24
+https://strm.hdtvizlecanli.com/live/n24.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Deluxe Music
+https://stream.hdtvizlecanli.com/
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Deutsche Welle
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Radio Bremen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",BR
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",SR
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",SWR
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",SuperRTL
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Disney Channel
+https://strm.hdtvizlecanli.com/live/disney.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Nickelodeon
+https://stream.hdtvizlecanli.com/nick.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",KiKa
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",rbb
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://lesalkodiques.wiki/wp-content/uploads/2023/06/icon-vavoo.png" group-title="Germany",Alex Berlin
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/media-u99yuhlyy_b4192000_slGER_14186.ts
